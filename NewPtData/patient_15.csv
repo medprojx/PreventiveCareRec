@@ -1,0 +1,110 @@
+StudyID,patient_gender,patient_race,patient_ethnicity,patient_dob,age,age_group,Diagnosis_code,Diagnosis_text,FamilyCondition,SocialHxInfo,VitalSign,Medication
+15,Female,Black or African American,Not Hispanic or Latino,9/25/1959,65,60-70,71167016,Neuropathy,Multiple myeloma,Alcohol amount average: 2,BMI : 30.1,polyethylene glycol 3350
+,,,,,,,250.92,"DM II (or NOS), w/ NOS complication, uncontrolled",Heart Disease,Previous employment/school: Got a BA in social worker. She worked in the financial aide department at the University of  XXX,Calculated Weight (lbs) : 158.8,insulin lispro
+,,,,,,,,,Kidney failure,Caffeine intake: 2coffee/day.  8-12pack/day pepsi,Calculated Height (in) : 64.2,lisinopril
+,,,,,,,,,Shortness of Breath at rest,Diet description: The patient tries to eat a healthy diet but has troubles eating fresh fruits and vegetables with dentition issues.,,metoPROLOL
+,,,,,,,,,Bipolar disorder,,,hydrALAZINE
+,,,,,,,,,Dementia,,,isosorbide mononitrate
+,,,,,,,,,Hashimoto thyroiditis,,,gabapentin
+,,,,,,,,,,,,potassium chloride
+,,,,,,,,,,,,aspirin
+,,,,,,,,,,,,amLODIPine
+,,,,,,,,,,,,tiotropium
+,,,,,,,,,,,,zolpidem
+,,,,,,,,,,,,insulin glargine
+,,,,,,,,,,,,heparin
+,,,,,,,,,,,,furosemide
+,,,,,,,,,,,,torsemide
+,,,,,,,,,,,,chlorhexidine topical
+,,,,,,,,,,,,mupirocin topical
+,,,,,,,,,,,,glucose
+,,,,,,,,,,,,glucagon
+,,,,,,,,,,,,Dextrose 10% in Water
+,,,,,,,,,,,,nitroGLYCerin
+,,,,,,,,,,,,zzisosorbide
+,,,,,,,,,,,,insulin aspart
+,,,,,,,,,,,,spironolactone
+,,,,,,,,,,,,enoxaparin
+,,,,,,,,,,,,atorvastatin
+,,,,,,,,,,,,albuterol
+,,,,,,,,,,,,carvedilol
+,,,,,,,,,,,,iron sucrose
+,,,,,,,,,,,,labetalol
+,,,,,,,,,,,,ondansetron
+,,,,,,,,,,,,multivitamin
+,,,,,,,,,,,,ferrous sulfate
+,,,,,,,,,,,,isosorbide-hydrALAZINE
+,,,,,,,,,,,,traZODONE
+,,,,,,,,,,,,hydroCODONE-acetaminophen
+,,,,,,,,,,,,acetaminophen
+,,,,,,,,,,,,promethazine
+,,,,,,,,,,,,sitaGLIPtin
+,,,,,,,,,,,,ranolazine
+,,,,,,,,,,,,Glucostabilizer Setting Change for Nursi
+,,,,,,,,,,,,"influenza virus vaccine, inactivated"
+,,,,,,,,,,,,pneumococcal 23-polyvalent vaccine
+,,,,,,,,,,,,morphine
+,,,,,,,,,,,,fentaNYL
+,,,,,,,,,,,,Miscellaneous Medication
+,,,,,,,,,,,,senna
+,,,,,,,,,,,,metOLAzone
+,,,,,,,,,,,,isosorbide dinitrate
+,,,,,,,,,,,,TEMazePAM
+,,,,,,,,,,,,pravastatin
+,,,,,,,,,,,,simvastatin
+,,,,,,,,,,,,Dextrose 5% in Water
+,,,,,,,,,,,,heparin flush
+,,,,,,,,,,,,alteplase
+,,,,,,,,,,,,docusate-senna
+,,,,,,,,,,,,glimepiride
+,,,,,,,,,,,,LORazePAM
+,,,,,,,,,,,,buMETAnide
+,,,,,,,,,,,,chlorothiazide
+,,,,,,,,,,,,lidocaine
+,,,,,,,,,,,,lactulose
+,,,,,,,,,,,,bisacodyl
+,,,,,,,,,,,,MOXifloxacin
+,,,,,,,,,,,,LEVofloxacin
+,,,,,,,,,,,,Sodium Chloride 0.9%
+,,,,,,,,,,,,azithromycin
+,,,,,,,,,,,,ceftRIAXone
+,,,,,,,,,,,,insulin NPH
+,,,,,,,,,,,,Al hydroxide-Mg hydroxide-simethicone
+,,,,,,,,,,,,diphenhydrAMINE
+,,,,,,,,,,,,MIDazoLAM
+,,,,,,,,,,,,metFORMIN
+,,,,,,,,,,,,verapamil
+,,,,,,,,,,,,ferrous fumarate
+,,,,,,,,,,,,magnesium hydroxide
+,,,,,,,,,,,,sodium biphosphate-sodium phosphate
+,,,,,,,,,,,,docusate
+,,,,,,,,,,,,sodium bicarbonate
+,,,,,,,,,,,,ipratropium
+,,,,,,,,,,,,metoCLOPramide
+,,,,,,,,,,,,ceFAZolin
+,,,,,,,,,,,,HYDROmorphone
+,,,,,,,,,,,,citalopram
+,,,,,,,,,,,,FLUoxetine
+,,,,,,,,,,,,cePHALexin
+,,,,,,,,,,,,albuterol-ipratropium
+,,,,,,,,,,,,bacitracin topical
+,,,,,,,,,,,,nystatin
+,,,,,,,,,,,,famotidine
+,,,,,,,,,,,,propofol
+,,,,,,,,,,,,Dextrose 5% Sod Chloride 0.9%
+,,,,,,,,,,,,vancomycin
+,,,,,,,,,,,,piperacillin-tazobactam
+,,,,,,,,,,,,potassium phosphate-sodium phosphate
+,,,,,,,,,,,,magnesium sulfate
+,,,,,,,,,,,,rocuronium
+,,,,,,,,,,,,Premix Solution
+,,,,,,,,,,,,insulin detemir
+,,,,,,,,,,,,Dextrose 10% Sod Chloride 0.9%
+,,,,,,,,,,,,pregabalin
+,,,,,,,,,,,,fenofibrate
+,,,,,,,,,,,,bacitracin
+,,,,,,,,,,,,sorbitol
+,,,,,,,,,,,,losartan
+,,,,,,,,,,,,digoxin
+,,,,,,,,,,,,CIPRofloxacin
+,,,,,,,,,,,,insulin glulisine

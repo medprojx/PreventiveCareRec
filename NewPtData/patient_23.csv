@@ -1,0 +1,88 @@
+StudyID,patient_gender,patient_race,patient_ethnicity,patient_dob,age,age_group,Diagnosis_code,Diagnosis_text,FamilyCondition,SocialHxInfo,VitalSign,Medication
+23,Female,White,Not Hispanic or Latino,4/1/1970,55,50-60,T78.8XXA,"Other adverse effects, not elsewhere classified, initial encounter",Multiple sclerosis,Tobacco amount per day: 0.25,BMI Weight in kg : 32.2,ranolazine
+,,,,,,,F15.11,"Other stimulant abuse, in remission",Hypertension complicating pregnancy childbirth and the puerperium,Work/School description: attorney,Weight KG : 82.4,torsemide
+,,,,,,,,,Cholesterol,Complex Living Situation: Single; 1 Child,Calculated Height (in) : 63,isosorbide mononitrate
+,,,,,,,,,Drug abuse,Diet description: Regular Diet no restrictions,Calculated Weight (lbs) : 181.3,amitriptyline
+,,,,,,,,,Cancer of prostate,Vitamins/Supplements: see med list,Height CM : 160,lisinopril
+,,,,,,,,,Malignant melanoma,Tobacco stopped at age: 32,,ferrous sulfate
+,,,,,,,,,Palpitations,Alcohol amount average: 1,,triamcinolone topical
+,,,,,,,,,Brain cancer,,,atorvastatin
+,,,,,,,,,,,,aspirin
+,,,,,,,,,,,,gabapentin
+,,,,,,,,,,,,levothyroxine
+,,,,,,,,,,,,ergocalciferol
+,,,,,,,,,,,,traZODONE
+,,,,,,,,,,,,metoPROLOL
+,,,,,,,,,,,,pantoprazole
+,,,,,,,,,,,,clopidogrel
+,,,,,,,,,,,,DME (Prescription)
+,,,,,,,,,,,,albuterol
+,,,,,,,,,,,,metFORMIN
+,,,,,,,,,,,,mirtazapine
+,,,,,,,,,,,,ondansetron
+,,,,,,,,,,,,calcium carbonate
+,,,,,,,,,,,,famotidine
+,,,,,,,,,,,,piperacillin-tazobactam
+,,,,,,,,,,,,Sodium Chloride 0.9%
+,,,,,,,,,,,,azithromycin
+,,,,,,,,,,,,benztropine
+,,,,,,,,,,,,rOPINIRole
+,,,,,,,,,,,,enoxaparin
+,,,,,,,,,,,,vancomycin
+,,,,,,,,,,,,lidocaine
+,,,,,,,,,,,,OXYcodone
+,,,,,,,,,,,,Dextrose 5% in Water
+,,,,,,,,,,,,furosemide
+,,,,,,,,,,,,cefePIME
+,,,,,,,,,,,,potassium chloride
+,,,,,,,,,,,,docusate
+,,,,,,,,,,,,bacillus coagulans-inulin
+,,,,,,,,,,,,acetaminophen
+,,,,,,,,,,,,multivitamin
+,,,,,,,,,,,,traMADOL
+,,,,,,,,,,,,hydrALAZINE
+,,,,,,,,,,,,saccharomyces boulardii lyo
+,,,,,,,,,,,,insulin lispro
+,,,,,,,,,,,,rocuronium
+,,,,,,,,,,,,MIDazoLAM
+,,,,,,,,,,,,fentaNYL
+,,,,,,,,,,,,PHENYLephrine
+,,,,,,,,,,,,ceFAZolin
+,,,,,,,,,,,,HYDROmorphone
+,,,,,,,,,,,,mannitol
+,,,,,,,,,,,,heparin
+,,,,,,,,,,,,Dextrose 10% in Water
+,,,,,,,,,,,,glucagon
+,,,,,,,,,,,,glucose
+,,,,,,,,,,,,plasmaLYTE-A (pH 7.4)
+,,,,,,,,,,,,magnesium sulfate
+,,,,,,,,,,,,aminoCAPROIC acid
+,,,,,,,,,,,,calcium chloride
+,,,,,,,,,,,,propofol
+,,,,,,,,,,,,protamine
+,,,,,,,,,,,,adenosine
+,,,,,,,,,,,,lidocaine topical
+,,,,,,,,,,,,Insulin Regular infusion bolus dose
+,,,,,,,,,,,,Lactated Ringers
+,,,,,,,,,,,,polyethylene glycol 3350
+,,,,,,,,,,,,docusate-senna
+,,,,,,,,,,,,alteplase
+,,,,,,,,,,,,bacitracin topical
+,,,,,,,,,,,,dexmedetomidine
+,,,,,,,,,,,,potassium phosphate-sodium phosphate
+,,,,,,,,,,,,EPINEPHrine
+,,,,,,,,,,,,magnesium hydroxide
+,,,,,,,,,,,,labetalol
+,,,,,,,,,,,,papaverine
+,,,,,,,,,,,,heparin flush
+,,,,,,,,,,,,nitroGLYCerin
+,,,,,,,,,,,,etomidate
+,,,,,,,,,,,,mupirocin topical
+,,,,,,,,,,,,methylPREDNISolone
+,,,,,,,,,,,,diphenhydrAMINE
+,,,,,,,,,,,,hydroCODONE-acetaminophen
+,,,,,,,,,,,,sodium chloride nasal
+,,,,,,,,,,,,Al hydroxide-Mg hydroxide-simethicone
+,,,,,,,,,,,,phenol topical
+,,,,,,,,,,,,benzocaine-menthol topical
+,,,,,,,,,,,,morphine

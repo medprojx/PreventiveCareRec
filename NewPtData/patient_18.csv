@@ -1,0 +1,78 @@
+StudyID,patient_gender,patient_race,patient_ethnicity,patient_dob,age,age_group,Diagnosis_code,Diagnosis_text,FamilyCondition,SocialHxInfo,VitalSign,Medication
+18,Male,White,Not Hispanic or Latino,5/26/1966,58,50-60,7082EC99-B3FA-4C0D-A48F-2661C6693C75,Psychiatric disorder,Lung cancer,Work/School description: works in the music industry as a manager,Weight KG : 115,hydroCODONE-acetaminophen
+,,,,,,,448.1,"Nevus, Non-Neoplastic",Diabetes,Alcohol started drinking age: 18,BMI : 36.5,furosemide
+,,,,,,,F25.0,"Schizoaffective disorder, bipolar type",Tuberculosis,,Height CM : 177.8,clopidogrel
+,,,,,,,,,Skin Cancer,,,acetaminophen
+,,,,,,,,,Brain,,,insulin lispro
+,,,,,,,,,Cervical Cancer,,,potassium chloride
+,,,,,,,,,Smoker,,,insulin glargine
+,,,,,,,,,,,,lisinopril
+,,,,,,,,,,,,metoPROLOL
+,,,,,,,,,,,,heparin
+,,,,,,,,,,,,lidocaine
+,,,,,,,,,,,,bacitracin topical
+,,,,,,,,,,,,magnesium sulfate
+,,,,,,,,,,,,PHENYLephrine
+,,,,,,,,,,,,aminoCAPROIC acid
+,,,,,,,,,,,,physiological irrigating solution
+,,,,,,,,,,,,mannitol
+,,,,,,,,,,,,famotidine
+,,,,,,,,,,,,glucagon
+,,,,,,,,,,,,Albumin Human 5%
+,,,,,,,,,,,,morphine
+,,,,,,,,,,,,phenol topical
+,,,,,,,,,,,,Dextrose 10% in Water
+,,,,,,,,,,,,traZODONE
+,,,,,,,,,,,,divalproex sodium
+,,,,,,,,,,,,glucose
+,,,,,,,,,,,,lithium
+,,,,,,,,,,,,Glucostabilizer Setting Change for Nursi
+,,,,,,,,,,,,amiodarone
+,,,,,,,,,,,,docusate-senna
+,,,,,,,,,,,,mupirocin topical
+,,,,,,,,,,,,valproic acid
+,,,,,,,,,,,,nitroGLYCerin
+,,,,,,,,,,,,Dextrose 5% Sod Chloride 0.45%
+,,,,,,,,,,,,Dextrose 5% in Water
+,,,,,,,,,,,,ceFAZolin
+,,,,,,,,,,,,magnesium hydroxide
+,,,,,,,,,,,,hydrALAZINE
+,,,,,,,,,,,,labetalol
+,,,,,,,,,,,,calcium chloride
+,,,,,,,,,,,,ondansetron
+,,,,,,,,,,,,Al hydroxide-Mg hydroxide-simethicone
+,,,,,,,,,,,,albuterol
+,,,,,,,,,,,,Premix Solution
+,,,,,,,,,,,,Sodium Chloride 0.9%
+,,,,,,,,,,,,propofol
+,,,,,,,,,,,,meperidine
+,,,,,,,,,,,,gabapentin
+,,,,,,,,,,,,fentaNYL
+,,,,,,,,,,,,HYDROmorphone
+,,,,,,,,,,,,papaverine
+,,,,,,,,,,,,heparin flush
+,,,,,,,,,,,,polyethylene glycol 3350
+,,,,,,,,,,,,Dextrose 5% Sod Chloride 0.9%
+,,,,,,,,,,,,miconazole topical
+,,,,,,,,,,,,aspirin
+,,,,,,,,,,,,isosorbide mononitrate
+,,,,,,,,,,,,risperiDONE
+,,,,,,,,,,,,atorvastatin
+,,,,,,,,,,,,insulin aspart
+,,,,,,,,,,,,nystatin
+,,,,,,,,,,,,metFORMIN
+,,,,,,,,,,,,cePHALexin
+,,,,,,,,,,,,sulfamethoxazole-trimethoprim
+,,,,,,,,,,,,gemfibrozil
+,,,,,,,,,,,,amLODIPine
+,,,,,,,,,,,,hydroCHLOROthiazide
+,,,,,,,,,,,,metroNIDAZOLE
+,,,,,,,,,,,,LORazePAM
+,,,,,,,,,,,,haloperidol
+,,,,,,,,,,,,DiazePAM
+,,,,,,,,,,,,thiamine
+,,,,,,,,,,,,folic acid
+,,,,,,,,,,,,pneumococcal 23-polyvalent vaccine
+,,,,,,,,,,,,terbinafine
+,,,,,,,,,,,,olanzapine
+,,,,,,,,,,,,insulin NPH

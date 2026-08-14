@@ -1,0 +1,62 @@
+StudyID,patient_gender,patient_race,patient_ethnicity,patient_dob,age,age_group,Diagnosis_code,Diagnosis_text,FamilyCondition,SocialHxInfo,VitalSign,Medication
+9,Male,Asian,Not Hispanic or Latino,11/3/1956,68,60-70,R19.07,"Generalized intra-abdominal and pelvic swelling, mass and lump",Mycosis fungoides,Work/School description: med tech,Height CM : 177.8,VALAcyclovir
+,,,,,,,D56.3,Thalassemia minor,Skin cancer,Tobacco stopped at age: 22,Weight KG : 84.8,Sodium Chloride 0.9%
+,,,,,,,Z20.6,Contact with and (suspected) exposure to human immunodeficiency virus [HIV],OSA (obstructive sleep apnea),,Calculated Height (in) : 70,amLODIPine
+,,,,,,,,,Valvular Heart Disease,,Calculated Weight (lbs) : 189.4,carvedilol
+,,,,,,,,,Dyslipidemia,,BMI Weight in kg : 27.2,isosorbide dinitrate
+,,,,,,,,,CAD (coronary artery disease),,,spironolactone
+,,,,,,,,,Hypothyroid,,,chlorthalidone
+,,,,,,,,,Heart failure,,,atorvastatin
+,,,,,,,,,,,,cloNIDine
+,,,,,,,,,,,,hydrALAZINE
+,,,,,,,,,,,,pantoprazole
+,,,,,,,,,,,,nitroGLYCerin
+,,,,,,,,,,,,propofol
+,,,,,,,,,,,,insulin lispro
+,,,,,,,,,,,,insulin glargine
+,,,,,,,,,,,,polyethylene glycol 3350
+,,,,,,,,,,,,traMADOL
+,,,,,,,,,,,,HYDROmorphone
+,,,,,,,,,,,,acetaminophen
+,,,,,,,,,,,,ondansetron
+,,,,,,,,,,,,promethazine
+,,,,,,,,,,,,Lactated Ringers
+,,,,,,,,,,,,hydroCHLOROthiazide
+,,,,,,,,,,,,bisacodyl
+,,,,,,,,,,,,furosemide
+,,,,,,,,,,,,aspirin
+,,,,,,,,,,,,pancrelipase
+,,,,,,,,,,,,calcium carbonate
+,,,,,,,,,,,,ergocalciferol
+,,,,,,,,,,,,MIDazoLAM
+,,,,,,,,,,,,fentaNYL
+,,,,,,,,,,,,heparin flush
+,,,,,,,,,,,,lidocaine
+,,,,,,,,,,,,heparin
+,,,,,,,,,,,,albuterol-ipratropium
+,,,,,,,,,,,,albuterol
+,,,,,,,,,,,,clopidogrel
+,,,,,,,,,,,,guaiFENesin
+,,,,,,,,,,,,umeclidinium
+,,,,,,,,,,,,fluticasone nasal
+,,,,,,,,,,,,Dextrose 10% in Water
+,,,,,,,,,,,,MOXifloxacin
+,,,,,,,,,,,,tamsulosin
+,,,,,,,,,,,,glucose
+,,,,,,,,,,,,glucagon
+,,,,,,,,,,,,"influenza virus vaccine, inactivated"
+,,,,,,,,,,,,enoxaparin
+,,,,,,,,,,,,loratadine
+,,,,,,,,,,,,montelukast
+,,,,,,,,,,,,multivitamin
+,,,,,,,,,,,,coenzyme q
+,,,,,,,,,,,,hydroCODONE-acetaminophen
+,,,,,,,,,,,,isosorbide mononitrate
+,,,,,,,,,,,,multivitamin with minerals
+,,,,,,,,,,,,Dextrose 5% in Water
+,,,,,,,,,,,,fluticasone-vilanterol
+,,,,,,,,,,,,atropine
+,,,,,,,,,,,,magnesium oxide
+,,,,,,,,,,,,ascorbic acid
+,,,,,,,,,,,,fexofenadine
+,,,,,,,,,,,,nebivolol

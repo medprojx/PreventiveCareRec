@@ -1,0 +1,71 @@
+StudyID,patient_gender,patient_race,patient_ethnicity,patient_dob,age,age_group,Diagnosis_code,Diagnosis_text,FamilyCondition,SocialHxInfo,VitalSign,Medication
+12,Female,White,Not Hispanic or Latino,8/31/1978,46,40-50,Z30.9,"Encounter for contraceptive management, unspecified",Diabetes mellitus,Complex Living Situation: Divorced.,Height CM : 162.6,amphetamine-dextroamphetamine
+,,,,,,,S43.80XA,"Sprain of other specified parts of unspecified shoulder girdle, initial encounter",Renal Failure Syndrome,Number of lifetime partners: 2,BMI Weight in kg : 32.3,clopidogrel
+,,,,,,,Z30.42,Encounter for surveillance of injectable contraceptive,Suicide,Other sexual concerns: STI: has had one  does not specify.,Calculated Height (in) : 64,medroxyPROGESTERone
+,,,,,,,S43.432A,"Superior glenoid labrum lesion of left shoulder, initial encounter",,Work/School description: painter,Calculated Weight (lbs) : 187.9,hydroCODONE-acetaminophen
+,,,,,,,K91.1,Postgastric surgery syndromes,,Other employment/school concerns: The patient was exposed to dust and fumes with her job as a painter.,Weight KG : 85.4,esomeprazole
+,,,,,,,T63.441A,"Toxic effect of venom of bees, accidental (unintentional), initial encounter",,,,montelukast
+,,,,,,,B27.90,"Infectious mononucleosis, unspecified without complication",,,,semaglutide
+,,,,,,,Z30.40,"Encounter for surveillance of contraceptives, unspecified",,,,loratadine
+,,,,,,,M65.231,"Calcific tendinitis, right forearm",,,,amoxicillin-CLAVULANATE
+,,,,,,,M67.921,"Unspecified disorder of synovium and tendon, right upper arm",,,,methotrexate
+,,,,,,,N80.0,Endometriosis of uterus,,,,cholecalciferol
+,,,,,,,N94.6,"Dysmenorrhea, unspecified",,,,hydroxychloroquine
+,,,,,,,Z30.430,Encounter for insertion of intrauterine contraceptive device,,,,folic acid
+,,,,,,,L94.9,"Localized connective tissue disorder, unspecified",,,,dexamethasone
+,,,,,,,Z30.431,Encounter for routine checking of intrauterine contraceptive device,,,,etodolac
+,,,,,,,,,,,,levonorgestrel
+,,,,,,,,,,,,lidocaine
+,,,,,,,,,,,,cycloBENZaprine
+,,,,,,,,,,,,bupivacaine
+,,,,,,,,,,,,aspirin
+,,,,,,,,,,,,atorvastatin
+,,,,,,,,,,,,pantoprazole
+,,,,,,,,,,,,heparin
+,,,,,,,,,,,,atropine
+,,,,,,,,,,,,MIDazoLAM
+,,,,,,,,,,,,fentaNYL
+,,,,,,,,,,,,labetalol
+,,,,,,,,,,,,docusate-senna
+,,,,,,,,,,,,hydrALAZINE
+,,,,,,,,,,,,enoxaparin
+,,,,,,,,,,,,polyethylene glycol 3350
+,,,,,,,,,,,,Sodium Chloride 0.9%
+,,,,,,,,,,,,lisinopril
+,,,,,,,,,,,,DULOXetine
+,,,,,,,,,,,,pregabalin
+,,,,,,,,,,,,amitriptyline
+,,,,,,,,,,,,nicotine
+,,,,,,,,,,,,perflutren
+,,,,,,,,,,,,HYDROmorphone
+,,,,,,,,,,,,potassium chloride
+,,,,,,,,,,,,DME (Prescription)
+,,,,,,,,,,,,EPINEPHrine
+,,,,,,,,,,,,albuterol
+,,,,,,,,,,,,SARS-CoV-2 mRNA (tozinameran-tris-sucros
+,,,,,,,,,,,,pneumococcal 23-polyvalent vaccine
+,,,,,,,,,,,,triamcinolone
+,,,,,,,,,,,,diclofenac topical
+,,,,,,,,,,,,fluticasone-salmeterol
+,,,,,,,,,,,,regadenoson
+,,,,,,,,,,,,Dextrose 5% in Water
+,,,,,,,,,,,,Lactated Ringers
+,,,,,,,,,,,,azithromycin
+,,,,,,,,,,,,predniSONE
+,,,,,,,,,,,,ketoROLAC
+,,,,,,,,,,,,colesevelam
+,,,,,,,,,,,,tiZANidine
+,,,,,,,,,,,,MOXifloxacin
+,,,,,,,,,,,,mometasone nasal
+,,,,,,,,,,,,ergocalciferol
+,,,,,,,,,,,,cefPODOXime
+,,,,,,,,,,,,LEVofloxacin
+,,,,,,,,,,,,pancrelipase
+,,,,,,,,,,,,gabapentin
+,,,,,,,,,,,,methylPREDNISolone
+,,,,,,,,,,,,ropivacaine
+,,,,,,,,,,,,DiazePAM
+,,,,,,,,,,,,lidocaine topical
+,,,,,,,,,,,,doxycycline
+,,,,,,,,,,,,benzonatate
+,,,,,,,,,,,,zzDME (ONCE)

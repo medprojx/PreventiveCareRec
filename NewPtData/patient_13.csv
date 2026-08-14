@@ -1,0 +1,103 @@
+StudyID,patient_gender,patient_race,patient_ethnicity,patient_dob,age,age_group,Diagnosis_code,Diagnosis_text,FamilyCondition,SocialHxInfo,VitalSign,Medication
+13,Male,Black or African American,Not Hispanic or Latino,12/1/1954,70,70+,V62.85,Homicidal Ideation,Thyroid disease,Other employment/school concerns: The patient was both a school teacher as well as a Supervisor for XXX Restorative Services and never had significant dust/fume exposure.,Weight KG : 71.4,thiamine
+,,,,,,,251738010,H/O: hematemesis,Ovarian Cancer,Work/School description: printer repair tech,Height CM : 182.9,metFORMIN
+,,,,,,,535.1,Chronic erosive gastritis,Lung Cancer,Substance abuse started at age: 31,BMI Weight in kg : 20.5,quetiapine
+,,,,,,,,,,,,gabapentin
+,,,,,,,,,,,,folic acid
+,,,,,,,,,,,,atorvastatin
+,,,,,,,,,,,,nicotine
+,,,,,,,,,,,,albuterol
+,,,,,,,,,,,,Sodium Chloride 0.9%
+,,,,,,,,,,,,Dextrose 5% in Water
+,,,,,,,,,,,,pancrelipase
+,,,,,,,,,,,,multivitamin
+,,,,,,,,,,,,aspirin
+,,,,,,,,,,,,lisinopril
+,,,,,,,,,,,,tiotropium
+,,,,,,,,,,,,hydroCHLOROthiazide
+,,,,,,,,,,,,ranitidine
+,,,,,,,,,,,,naproxen
+,,,,,,,,,,,,amLODIPine
+,,,,,,,,,,,,enoxaparin
+,,,,,,,,,,,,ceftRIAXone
+,,,,,,,,,,,,ampicillin-sulbactam
+,,,,,,,,,,,,metroNIDAZOLE
+,,,,,,,,,,,,chlordiazePOXIDE
+,,,,,,,,,,,,acetaminophen
+,,,,,,,,,,,,LORazePAM
+,,,,,,,,,,,,ketoROLAC
+,,,,,,,,,,,,fentaNYL
+,,,,,,,,,,,,potassium chloride
+,,,,,,,,,,,,haloperidol
+,,,,,,,,,,,,Lactated Ringers
+,,,,,,,,,,,,tetanus-diphth-pertuss (Tdap) adult/adol
+,,,,,,,,,,,,ibuprofen
+,,,,,,,,,,,,hydroCODONE-acetaminophen
+,,,,,,,,,,,,propofol
+,,,,,,,,,,,,EPINEPHrine
+,,,,,,,,,,,,lidocaine
+,,,,,,,,,,,,MIDazoLAM
+,,,,,,,,,,,,ceFAZolin
+,,,,,,,,,,,,insulin lispro
+,,,,,,,,,,,,famotidine
+,,,,,,,,,,,,calcium GLUCOnate
+,,,,,,,,,,,,glucose
+,,,,,,,,,,,,sodium bicarbonate
+,,,,,,,,,,,,succinylcholine
+,,,,,,,,,,,,metoCLOPramide
+,,,,,,,,,,,,ondansetron
+,,,,,,,,,,,,calcium chloride
+,,,,,,,,,,,,rocuronium
+,,,,,,,,,,,,ocular lubricant
+,,,,,,,,,,,,protamine
+,,,,,,,,,,,,heparin
+,,,,,,,,,,,,bacitracin
+,,,,,,,,,,,,plasmaLYTE-A (pH 7.4)
+,,,,,,,,,,,,promethazine
+,,,,,,,,,,,,morphine
+,,,,,,,,,,,,hydrALAZINE
+,,,,,,,,,,,,meperidine
+,,,,,,,,,,,,mupirocin topical
+,,,,,,,,,,,,Dextrose 5% Sod Chloride 0.9%
+,,,,,,,,,,,,magnesium sulfate
+,,,,,,,,,,,,DOBUTamine
+,,,,,,,,,,,,metoPROLOL
+,,,,,,,,,,,,atropine
+,,,,,,,,,,,,magnesium oxide
+,,,,,,,,,,,,amoxicillin-CLAVULANATE
+,,,,,,,,,,,,albuterol-ipratropium
+,,,,,,,,,,,,collagenase topical
+,,,,,,,,,,,,azithromycin
+,,,,,,,,,,,,naltrexone
+,,,,,,,,,,,,sulfamethoxazole-trimethoprim
+,,,,,,,,,,,,glucagon
+,,,,,,,,,,,,diclofenac topical
+,,,,,,,,,,,,Dextrose 10% in Water
+,,,,,,,,,,,,OXYcodone
+,,,,,,,,,,,,pantoprazole
+,,,,,,,,,,,,traMADOL
+,,,,,,,,,,,,Glucostabilizer Setting Change for Nursi
+,,,,,,,,,,,,loperamide
+,,,,,,,,,,,,cloNIDine
+,,,,,,,,,,,,DiazePAM
+,,,,,,,,,,,,cePHALexin
+,,,,,,,,,,,,diphenhydrAMINE
+,,,,,,,,,,,,prochlorperazine
+,,,,,,,,,,,,ipratropium
+,,,,,,,,,,,,racEPINEPHrine
+,,,,,,,,,,,,predniSONE
+,,,,,,,,,,,,CIPRofloxacin
+,,,,,,,,,,,,docusate-senna
+,,,,,,,,,,,,HYDROmorphone
+,,,,,,,,,,,,labetalol
+,,,,,,,,,,,,traZODONE
+,,,,,,,,,,,,pneumococcal 23-polyvalent vaccine
+,,,,,,,,,,,,"influenza virus vaccine, inactivated"
+,,,,,,,,,,,,ferrous sulfate
+,,,,,,,,,,,,oseltamivir
+,,,,,,,,,,,,omeprazole
+,,,,,,,,,,,,magnesium hydroxide
+,,,,,,,,,,,,guaiFENesin-dextromethorphan
+,,,,,,,,,,,,OXYcodone-acetaminophen
+,,,,,,,,,,,,pregabalin
+,,,,,,,,,,,,polyethylene glycol 3350

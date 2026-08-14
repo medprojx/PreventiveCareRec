@@ -1,0 +1,34 @@
+StudyID,patient_gender,patient_race,patient_ethnicity,patient_dob,age,age_group,Diagnosis_code,Diagnosis_text,FamilyCondition,SocialHxInfo,VitalSign,Medication
+16,Male,Native Hawaiian or Other Pacific Islande,Not Hispanic or Latino,10/29/1962,62,60-70,788.9,Other Symptoms Involving Urinary System...,Cardiomyopathy,Work/School description: long term disability,Calculated Weight (lbs) : 203.3,atenolol
+,,,,,,,V48.3,Mechanical and Motor Problems with Neck and Trunk,Lupus,Tobacco number of years: 51,Calculated Height (in) : 64,multivitamin
+,,,,,,,,,Aneurysm,Tobacco total pack years: 50,BMI : 37.1,glyBURIDE
+,,,,,,,,,Leukemia,Complex Living Situation: Divorced  2 CHILDREN,,escitalopram
+,,,,,,,,,Ovarian cancer,,,diltiaZEM
+,,,,,,,,,Stomach cancer,,,mometasone nasal
+,,,,,,,,,Hodgkin's disease,,,lanthanum carbonate
+,,,,,,,,,Mouth cancer,,,sodium bicarbonate
+,,,,,,,,,,,,ergocalciferol
+,,,,,,,,,,,,regadenoson
+,,,,,,,,,,,,aspirin
+,,,,,,,,,,,,acetaminophen
+,,,,,,,,,,,,pravastatin
+,,,,,,,,,,,,carvedilol
+,,,,,,,,,,,,allopurinol
+,,,,,,,,,,,,ezetimibe
+,,,,,,,,,,,,promethazine
+,,,,,,,,,,,,omeprazole
+,,,,,,,,,,,,fenofibrate
+,,,,,,,,,,,,omega-3 polyunsaturated fatty acids
+,,,,,,,,,,,,"influenza virus vaccine, inactivated"
+,,,,,,,,,,,,hydrALAZINE
+,,,,,,,,,,,,LORazePAM
+,,,,,,,,,,,,pantoprazole
+,,,,,,,,,,,,amLODIPine
+,,,,,,,,,,,,ondansetron
+,,,,,,,,,,,,fexofenadine
+,,,,,,,,,,,,hydroCODONE-acetaminophen
+,,,,,,,,,,,,cholecalciferol
+,,,,,,,,,,,,eltrombopag
+,,,,,,,,,,,,colchicine
+,,,,,,,,,,,,febuxostat
+,,,,,,,,,,,,atorvastatin

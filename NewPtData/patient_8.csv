@@ -1,0 +1,121 @@
+StudyID,patient_gender,patient_race,patient_ethnicity,patient_dob,age,age_group,Diagnosis_code,Diagnosis_text,FamilyCondition,SocialHxInfo,VitalSign,Medication
+8,Female,Black or African American,Not Hispanic or Latino,2/9/1968,57,50-60,E10.3293,"Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema, bilateral",Kidney disease,Diet description: Healthy diet  restricted  must be gluten-free,Height CM : 165.1,albuterol
+,,,,,,,E10.3213,"Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema, bilateral",Coronary artery disease,Work/School description: works at XXX Highway,Weight KG : 64.5,pentaMIDine
+,,,,,,,K91.31,Postprocedural partial intestinal obstruction,Graves disease,Other contraceptive use: hysterectomy,BMI Weight in kg : 23.7,mycophenolic acid
+,,,,,,,K46.0,"Unspecified abdominal hernia with obstruction, without gangrene",Hyperlipidemia,Caffeine intake: is now drinking 4 mountain dews a day and will try and cut back,,bupivacaine
+,,,,,,,,,Diabetes insipidus,Tobacco number of years: 45,,propofol
+,,,,,,,,,Heart disease,,,rocuronium
+,,,,,,,,,Psoriasis,,,ceFAZolin
+,,,,,,,,,Heart murmur,,,cefPODOXime
+,,,,,,,,,Sjoegren syndrome,,,dexamethasone
+,,,,,,,,,Alcoholism,,,fentaNYL
+,,,,,,,,,Kidney,,,ondansetron
+,,,,,,,,,,,,sugammadex
+,,,,,,,,,,,,lidocaine
+,,,,,,,,,,,,Lactated Ringers
+,,,,,,,,,,,,haloperidol
+,,,,,,,,,,,,HYDROmorphone
+,,,,,,,,,,,,promethazine
+,,,,,,,,,,,,DiazePAM
+,,,,,,,,,,,,hydroCODONE-acetaminophen
+,,,,,,,,,,,,OXYcodone
+,,,,,,,,,,,,diphenhydrAMINE
+,,,,,,,,,,,,pancrelipase
+,,,,,,,,,,,,aspirin
+,,,,,,,,,,,,valGANciclovir
+,,,,,,,,,,,,tacrolimus
+,,,,,,,,,,,,magnesium sulfate
+,,,,,,,,,,,,enoxaparin
+,,,,,,,,,,,,pantoprazole
+,,,,,,,,,,,,dapsone
+,,,,,,,,,,,,Dextrose 5% in Water
+,,,,,,,,,,,,Sodium Chloride 0.9%
+,,,,,,,,,,,,OXYcodone-acetaminophen
+,,,,,,,,,,,,acetaminophen
+,,,,,,,,,,,,fluticasone nasal
+,,,,,,,,,,,,zolpidem
+,,,,,,,,,,,,prochlorperazine
+,,,,,,,,,,,,midodrine
+,,,,,,,,,,,,lidocaine topical
+,,,,,,,,,,,,sulfamethoxazole-trimethoprim
+,,,,,,,,,,,,amiodarone
+,,,,,,,,,,,,metoCLOPramide
+,,,,,,,,,,,,bifidobacterium/lactobacillus/streptococ
+,,,,,,,,,,,,wheat dextrin
+,,,,,,,,,,,,magnesium oxide
+,,,,,,,,,,,,metoPROLOL
+,,,,,,,,,,,,guar gum
+,,,,,,,,,,,,methylPREDNISolone
+,,,,,,,,,,,,alemtuzumab
+,,,,,,,,,,,,polyethylene glycol 3350
+,,,,,,,,,,,,sirolimus
+,,,,,,,,,,,,predniSONE
+,,,,,,,,,,,,potassium phosphate-sodium phosphate
+,,,,,,,,,,,,anti-thymocyte globulin (rabbit)
+,,,,,,,,,,,,EPINEPHrine
+,,,,,,,,,,,,famotidine
+,,,,,,,,,,,,hydrocortisone
+,,,,,,,,,,,,Glucostabilizer Setting Change for Nursi
+,,,,,,,,,,,,glucose
+,,,,,,,,,,,,glucagon
+,,,,,,,,,,,,Dextrose 10% in Water
+,,,,,,,,,,,,insulin lispro
+,,,,,,,,,,,,cePHALexin
+,,,,,,,,,,,,glycerin-magnesium sulf-mineral oil-NaCl
+,,,,,,,,,,,,naloxegol
+,,,,,,,,,,,,lactulose
+,,,,,,,,,,,,polycarbophil
+,,,,,,,,,,,,heparin
+,,,,,,,,,,,,sodium ferric gluconate complex
+,,,,,,,,,,,,ceftRIAXone
+,,,,,,,,,,,,iron sucrose
+,,,,,,,,,,,,methocarbamol
+,,,,,,,,,,,,calcium carbonate
+,,,,,,,,,,,,Al hydroxide-Mg hydroxide-simethicone
+,,,,,,,,,,,,succinylcholine
+,,,,,,,,,,,,furosemide
+,,,,,,,,,,,,onabotulinumtoxinA
+,,,,,,,,,,,,bismuth subsalicylate
+,,,,,,,,,,,,sodium phosphate
+,,,,,,,,,,,,calcium GLUCOnate
+,,,,,,,,,,,,amiodarone infusion bolus dose
+,,,,,,,,,,,,sucralfate
+,,,,,,,,,,,,Sodium Chloride 0.45%
+,,,,,,,,,,,,potassium chloride
+,,,,,,,,,,,,DME (Vendor)
+,,,,,,,,,,,,calcium chloride
+,,,,,,,,,,,,potassium phosphate
+,,,,,,,,,,,,labetalol
+,,,,,,,,,,,,iopamidol
+,,,,,,,,,,,,aprepitant
+,,,,,,,,,,,,mannitol
+,,,,,,,,,,,,thrombin topical
+,,,,,,,,,,,,papaverine
+,,,,,,,,,,,,bupivacaine liposome
+,,,,,,,,,,,,ePHEDrine
+,,,,,,,,,,,,methylene blue
+,,,,,,,,,,,,PHENYLephrine
+,,,,,,,,,,,,bisacodyl
+,,,,,,,,,,,,NIFEdipine
+,,,,,,,,,,,,insulin glargine
+,,,,,,,,,,,,acyclovir
+,,,,,,,,,,,,losartan
+,,,,,,,,,,,,"estrogens, conjugated"
+,,,,,,,,,,,,"bag, viaflex"
+,,,,,,,,,,,,docusate-senna
+,,,,,,,,,,,,NORepinephrine
+,,,,,,,,,,,,methylnaltrexone
+,,,,,,,,,,,,alteplase
+,,,,,,,,,,,,bacitracin topical
+,,,,,,,,,,,,Dextrose 20% in Water
+,,,,,,,,,,,,belladonna-opium
+,,,,,,,,,,,,fluconazole
+,,,,,,,,,,,,ampicillin
+,,,,,,,,,,,,neomycin-polymyxin B sulfate topical
+,,,,,,,,,,,,ampicillin-sulbactam
+,,,,,,,,,,,,Albumin Human 5%
+,,,,,,,,,,,,MIDazoLAM
+,,,,,,,,,,,,sodium citrate-citric acid
+,,,,,,,,,,,,cholecalciferol
+,,,,,,,,,,,,omeprazole
+,,,,,,,,,,,,warfarin

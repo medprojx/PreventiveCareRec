@@ -1,0 +1,24 @@
+StudyID,patient_gender,patient_race,patient_ethnicity,patient_dob,age,age_group,Diagnosis_code,Diagnosis_text,FamilyCondition,SocialHxInfo,VitalSign,Medication
+17,Male,White,Not Hispanic or Latino,8/20/1952,72,70+,V70.2,"General Psychiatric Examination, Other and Unspecified",Bladder cancer,Other contraceptive use: None.,Height CM : 175,amLODIPine
+,,,,,,,787.99,Change in bowel habits,Parkinson's disease,Tobacco started at age: 18,Calculated Weight (lbs) : 176.7,atorvastatin
+,,,,,,,Q16.1,"Congenital absence, atresia and stricture of auditory canal (external)",Alcohol abuse,Complex Living Situation: divorced,Calculated Height (in) : 68.9,losartan
+,,,,,,,S83.252A,"Bucket-handle tear of lateral meniscus, current injury, left knee, initial encounter",Death of father,Diet description: General diet with fresh fruits and vegetables,BMI Weight in kg : 26.2,dorzolamide ophthalmic
+,,,,,,,S83.289A,"Other tear of lateral meniscus, current injury, unspecified knee, initial encounter",Abdominal aortic aneurysm,Caffeine intake: Chocolate,Weight KG : 80.3,brimonidine ophthalmic
+,,,,,,,Z00,"Encounter for general examination without complaint, suspected or reported diagnosis",,Work/School description: Carpenter,,omega-3 polyunsaturated fatty acids
+,,,,,,,,,,Tobacco stopped at age: 61,,pneumococcal 23-polyvalent vaccine
+,,,,,,,,,,,,DiazePAM
+,,,,,,,,,,,,cholecalciferol
+,,,,,,,,,,,,coenzyme q
+,,,,,,,,,,,,bifidobacterium-lactobacillus
+,,,,,,,,,,,,chondroitin/glucosamine/methylsulfonylme
+,,,,,,,,,,,,aspirin
+,,,,,,,,,,,,pneumococcal 13-valent conjugate vaccine
+,,,,,,,,,,,,tetanus-diphth-pertuss (Tdap) adult/adol
+,,,,,,,,,,,,gabapentin
+,,,,,,,,,,,,predniSONE
+,,,,,,,,,,,,"influenza virus vaccine, inactivated"
+,,,,,,,,,,,,hepatitis A adult vaccine
+,,,,,,,,,,,,nebivolol
+,,,,,,,,,,,,dexamethasone ophthalmic
+,,,,,,,,,,,,OXYcodone-acetaminophen
+,,,,,,,,,,,,lovastatin

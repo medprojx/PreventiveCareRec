@@ -1,0 +1,57 @@
+StudyID,patient_gender,patient_race,patient_ethnicity,patient_dob,age,age_group,Diagnosis_code,Diagnosis_text,FamilyCondition,SocialHxInfo,VitalSign,Medication
+19,Male,Asian,Not Hispanic or Latino,10/1/1950,74,70+,H40.10X0,"Unspecified open-angle glaucoma, stage unspecified",Heart attack,Number of lifetime partners: 3,Calculated Height (in) : 66,metoPROLOL
+,,,,,,,F81.0,Specific reading disorder,Insulin Dependent Diabetes Mellitus,Caffeine intake: 1/2 decaf  1/2 reg coffee--5 cups/day,Calculated Weight (lbs) : 173.8,dabigatran
+,,,,,,,H40.50X3,"Glaucoma secondary to other eye disorders, unspecified eye, severe stage",Irregular heart beat,Complex Living Situation: 2 adult children wife is deceased,BMI : 26.4,albuterol
+,,,,,,,Q24.0,Dextrocardia,Kidney carcinoma,Alcohol stopped drinking age: 71,,predniSONE
+,,,,,,,G54.3,"Thoracic root disorders, not elsewhere classified",SOB (shortness of breath),Diet description: Low sodium,,sulfamethoxazole-trimethoprim
+,,,,,,,,,Congestive heart failure (CHF),,,omeprazole
+,,,,,,,,,,,,allopurinol
+,,,,,,,,,,,,"influenza virus vaccine, inactivated"
+,,,,,,,,,,,,atorvastatin
+,,,,,,,,,,,,colchicine
+,,,,,,,,,,,,glycopyrrolate
+,,,,,,,,,,,,neostigmine
+,,,,,,,,,,,,lidocaine
+,,,,,,,,,,,,propofol
+,,,,,,,,,,,,fentaNYL
+,,,,,,,,,,,,ePHEDrine
+,,,,,,,,,,,,MIDazoLAM
+,,,,,,,,,,,,ceFAZolin
+,,,,,,,,,,,,famotidine
+,,,,,,,,,,,,rocuronium
+,,,,,,,,,,,,ocular lubricant
+,,,,,,,,,,,,PHENYLephrine
+,,,,,,,,,,,,aspirin
+,,,,,,,,,,,,acetaminophen
+,,,,,,,,,,,,Sodium Chloride 0.9%
+,,,,,,,,,,,,hydrALAZINE
+,,,,,,,,,,,,heparin
+,,,,,,,,,,,,protamine
+,,,,,,,,,,,,thrombin topical
+,,,,,,,,,,,,plasmaLYTE-A (pH 7.4)
+,,,,,,,,,,,,labetalol
+,,,,,,,,,,,,hydroCODONE-acetaminophen
+,,,,,,,,,,,,ondansetron
+,,,,,,,,,,,,docusate
+,,,,,,,,,,,,potassium chloride
+,,,,,,,,,,,,magnesium sulfate
+,,,,,,,,,,,,potassium phosphate-sodium phosphate
+,,,,,,,,,,,,mupirocin topical
+,,,,,,,,,,,,losartan
+,,,,,,,,,,,,aminoPHYLLINE
+,,,,,,,,,,,,regadenoson
+,,,,,,,,,,,,multivitamin with minerals
+,,,,,,,,,,,,Miscellaneous Medication
+,,,,,,,,,,,,ranitidine
+,,,,,,,,,,,,hydroCHLOROthiazide
+,,,,,,,,,,,,magnesium citrate
+,,,,,,,,,,,,cyanocobalamin
+,,,,,,,,,,,,zzLidocaine Viscous 2%/Maalox
+,,,,,,,,,,,,azithromycin
+,,,,,,,,,,,,latanoprost ophthalmic
+,,,,,,,,,,,,brimonidine ophthalmic
+,,,,,,,,,,,,simethicone
+,,,,,,,,,,,,Lactated Ringers
+,,,,,,,,,,,,promethazine
+,,,,,,,,,,,,pneumococcal 23-polyvalent vaccine
+,,,,,,,,,,,,dorzolamide-timolol ophthalmic

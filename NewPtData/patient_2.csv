@@ -1,0 +1,81 @@
+StudyID,patient_gender,patient_race,patient_ethnicity,patient_dob,age,age_group,Diagnosis_code,Diagnosis_text,FamilyCondition,SocialHxInfo,VitalSign,Medication
+2,Female,White,Hispanic or Latino,3/17/1948,77,70+,410.9,"Acute Myocardial Infarction, Unspecified Site.",Stroke,Other history name: left hand dominant,BMI Weight in kg : 30.6,amLODIPine
+,,,,,,,107333017,Carotid artery narrowing,Glaucoma,Sexually active at age: 15,Calculated Height (in) : 63.4,lisinopril
+,,,,,,,434.01,"Cerebral Thrombosis, with Cerebral Infarction",Esophageal cancer,Substance abuse started at age: 12,Weight KG : 77.27,hydroCODONE-acetaminophen
+,,,,,,,704,"Alopecia, Unspecified",Diabetes,Caffeine intake: 6pack Pepsi/day and sweet tea,Height CM : 161,clopidogrel
+,,,,,,,,,,Tobacco started at age: 16,Calculated Weight (lbs) : 174.5,hydroCHLOROthiazide
+,,,,,,,,,,Work/School description: worked as RN.,BMI : 30.9,atorvastatin
+,,,,,,,,,,Tobacco amount per day: 3,,tiotropium
+,,,,,,,,,,Diet description: The patient eats a good regular diet at home.,,buDESOnide-formoterol
+,,,,,,,,,,Work/School description: XXXXX Hospital,,Miscellaneous Medication
+,,,,,,,,,,Alcohol amount average: 6,,aspirin
+,,,,,,,,,,Complex Living Situation: married - no children - housewife,,cloNIDine
+,,,,,,,,,,Tobacco number of years: 6,,hydrALAZINE
+,,,,,,,,,,Alcohol stopped drinking age: 24,,"dextran, low molecular weight"
+,,,,,,,,,,,,protamine
+,,,,,,,,,,,,Dextrose 5% in Water
+,,,,,,,,,,,,ondansetron
+,,,,,,,,,,,,Sodium Chloride 0.9%
+,,,,,,,,,,,,acetaminophen
+,,,,,,,,,,,,DiazePAM
+,,,,,,,,,,,,bupivacaine-EPINEPHrine
+,,,,,,,,,,,,pravastatin
+,,,,,,,,,,,,ceFAZolin
+,,,,,,,,,,,,heparin
+,,,,,,,,,,,,potassium chloride
+,,,,,,,,,,,,PARoxetine
+,,,,,,,,,,,,fluphenazine
+,,,,,,,,,,,,PHENYLephrine
+,,,,,,,,,,,,glycopyrrolate
+,,,,,,,,,,,,neostigmine
+,,,,,,,,,,,,propofol
+,,,,,,,,,,,,fentaNYL
+,,,,,,,,,,,,MIDazoLAM
+,,,,,,,,,,,,dexamethasone
+,,,,,,,,,,,,esmolol
+,,,,,,,,,,,,labetalol
+,,,,,,,,,,,,rocuronium
+,,,,,,,,,,,,succinylcholine
+,,,,,,,,,,,,nitroGLYCerin
+,,,,,,,,,,,,zzzBacitracin Irrigation 50 units/mL.
+,,,,,,,,,,,,docusate
+,,,,,,,,,,,,Dextrose 5% Sod Chloride 0.9%
+,,,,,,,,,,,,ePHEDrine
+,,,,,,,,,,,,zzabciximab
+,,,,,,,,,,,,diphenhydrAMINE
+,,,,,,,,,,,,lidocaine
+,,,,,,,,,,,,metoCLOPramide
+,,,,,,,,,,,,droperidol
+,,,,,,,,,,,,morphine
+,,,,,,,,,,,,rabeprazole
+,,,,,,,,,,,,bivalirudin
+,,,,,,,,,,,,isosorbide mononitrate
+,,,,,,,,,,,,prochlorperazine
+,,,,,,,,,,,,albuterol-ipratropium
+,,,,,,,,,,,,furosemide
+,,,,,,,,,,,,albuterol
+,,,,,,,,,,,,insulin lispro
+,,,,,,,,,,,,famotidine
+,,,,,,,,,,,,zolpidem
+,,,,,,,,,,,,amiodarone
+,,,,,,,,,,,,glucose
+,,,,,,,,,,,,atropine
+,,,,,,,,,,,,glucagon
+,,,,,,,,,,,,metoPROLOL
+,,,,,,,,,,,,Dextrose 10% in Water
+,,,,,,,,,,,,etomidate
+,,,,,,,,,,,,simvastatin
+,,,,,,,,,,,,carvedilol
+,,,,,,,,,,,,LORazePAM
+,,,,,,,,,,,,CISatracurium
+,,,,,,,,,,,,DOPamine
+,,,,,,,,,,,,gentamicin
+,,,,,,,,,,,,fluorescein ophthalmic
+,,,,,,,,,,,,tobramycin-dexamethasone ophthalmic
+,,,,,,,,,,,,bupivacaine
+,,,,,,,,,,,,vancomycin
+,,,,,,,,,,,,EPINEPHrine
+,,,,,,,,,,,,acetaZOLAMIDE
+,,,,,,,,,,,,cyclopentolate ophthalmic
+,,,,,,,,,,,,proparacaine ophthalmic
+,,,,,,,,,,,,tropicamide ophthalmic

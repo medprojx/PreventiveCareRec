@@ -1,0 +1,24 @@
+StudyID,patient_gender,patient_race,patient_ethnicity,patient_dob,age,age_group,Diagnosis_code,Diagnosis_text,FamilyCondition,SocialHxInfo,VitalSign,Medication
+1,Female,White,Not Hispanic or Latino,3/29/1950,75,70+,599,Urinary tract infection NOS,Coronary arteriosclerosis,Other history name: Married,Weight KG : 56.1,cloNIDine
+,,,,,,,424.91,Endocarditis in Diseases Classified Elsewhere,Myasthenia gravis,Tobacco amount per day: 1.5,BMI Weight in kg : 20.9,naproxen
+,,,,,,,719.55,"Stiffness of Joint, Not Elsewhere Classified, Involving Pelvic Region and Thigh",Prostate Cancer,Work/School description: previously worked at XXX,Height CM : 164,iron polysaccharide
+,,,,,,,719.57,"Stiffness of Joint, Not Elsewhere Classified, Involving Ankle and Foot",GERD (gastroesophageal reflux disease),Tobacco started at age: 41,,Sodium Chloride 0.9%
+,,,,,,,,,Heart Attack,Number of lifetime partners: 1,,lisinopril
+,,,,,,,,,Parkinson's Disease,Parent Occupation: pt is on disability.,,cycloBENZaprine
+,,,,,,,,,Migraines,Work/School description: applying for disability,,DULOXetine
+,,,,,,,,,,Caffeine intake: coffee  2 daily,,methocarbamol
+,,,,,,,,,,Vitamins/Supplements: PNV,,aspirin-dipyridamole
+,,,,,,,,,,Tobacco stopped at age: 73,,rosuvastatin
+,,,,,,,,,,,,aspirin
+,,,,,,,,,,,,simvastatin
+,,,,,,,,,,,,amoxicillin
+,,,,,,,,,,,,atropine
+,,,,,,,,,,,,DOBUTamine
+,,,,,,,,,,,,esmolol
+,,,,,,,,,,,,nitroGLYCerin
+,,,,,,,,,,,,enoxaparin
+,,,,,,,,,,,,acetaminophen
+,,,,,,,,,,,,ondansetron
+,,,,,,,,,,,,CIPRofloxacin
+,,,,,,,,,,,,ibuprofen
+,,,,,,,,,,,,hydroCODONE-acetaminophen

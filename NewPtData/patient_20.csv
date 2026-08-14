@@ -1,0 +1,24 @@
+StudyID,patient_gender,patient_race,patient_ethnicity,patient_dob,age,age_group,Diagnosis_code,Diagnosis_text,FamilyCondition,SocialHxInfo,VitalSign,Medication
+20,Female,Black or African American,Not Hispanic or Latino,3/18/1979,46,40-50,N97.9,"Female infertility, unspecified",Heart failure,Number of current partners: 1,Height CM : 157.5,atorvastatin
+,,,,,,,,,Nephrolithiasis,Tobacco started at age: 19,Weight KG : 63,clopidogrel
+,,,,,,,,,Transplantation of heart,Other contraceptive use: Ortho Novum 1/35 (generic),Calculated Height (in) : 62,aspirin
+,,,,,,,,,Cancer,Diet restrictions: none,Calculated Weight (lbs) : 139.3,multivitamin with minerals
+,,,,,,,,,Cancer - unknown origin,Previous employment/school: Housewife,BMI Weight in kg : 25.5,famotidine
+,,,,,,,,,Lung Disease,,,acetaminophen/butalbital/caffeine
+,,,,,,,,,Valvular heart disease,,,MIDazoLAM
+,,,,,,,,,Colon cancer,,,fentaNYL
+,,,,,,,,,Diverticulitis,,,verapamil
+,,,,,,,,,,,,nitroGLYCerin
+,,,,,,,,,,,,heparin
+,,,,,,,,,,,,enoxaparin
+,,,,,,,,,,,,acetaminophen
+,,,,,,,,,,,,lidocaine
+,,,,,,,,,,,,ondansetron
+,,,,,,,,,,,,atropine
+,,,,,,,,,,,,bacitracin topical
+,,,,,,,,,,,,warfarin
+,,,,,,,,,,,,magnesium citrate
+,,,,,,,,,,,,ketoROLAC
+,,,,,,,,,,,,metroNIDAZOLE
+,,,,,,,,,,,,morphine
+,,,,,,,,,,,,Sodium Chloride 0.9%

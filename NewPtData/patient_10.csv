@@ -1,0 +1,58 @@
+StudyID,patient_gender,patient_race,patient_ethnicity,patient_dob,age,age_group,Diagnosis_code,Diagnosis_text,FamilyCondition,SocialHxInfo,VitalSign,Medication
+10,Female,Asian,Not Hispanic or Latino,3/15/1978,47,40-50,C11.9,"Malignant neoplasm of nasopharynx, unspecified",Emphysema,Tobacco amount per day: 0.75,BMI Weight in kg : 31.9,CLonazePAM
+,,,,,,,I67.7,"Cerebral arteritis, not elsewhere classified",Stroke syndrome,Tobacco number of years: 25,Calculated Height (in) : 63,hydrOXYzine
+,,,,,,,I42.7,Cardiomyopathy due to drug and external agent,Cataract,Work/School description: programmer,Calculated Weight (lbs) : 179.7,clopidogrel
+,,,,,,,I68.2,Cerebral arteritis in other diseases classified elsewhere,Oral cancer,,Height CM : 160,losartan
+,,,,,,,,,Angina,,Weight KG : 81.7,venlafaxine
+,,,,,,,,,Alive,,,OXYcodone
+,,,,,,,,,Sleep apnea,,,ondansetron
+,,,,,,,,,Myocardial infarct ,,,labetalol
+,,,,,,,,,Hearing loss,,,ePHEDrine
+,,,,,,,,,,,,dexamethasone
+,,,,,,,,,,,,propofol
+,,,,,,,,,,,,rocuronium
+,,,,,,,,,,,,sugammadex
+,,,,,,,,,,,,phenol topical
+,,,,,,,,,,,,fentaNYL
+,,,,,,,,,,,,lidocaine topical
+,,,,,,,,,,,,EPINEPHrine
+,,,,,,,,,,,,Lactated Ringers
+,,,,,,,,,,,,triamcinolone
+,,,,,,,,,,,,hydroCODONE-acetaminophen
+,,,,,,,,,,,,albuterol
+,,,,,,,,,,,,promethazine
+,,,,,,,,,,,,acetaminophen
+,,,,,,,,,,,,HYDROmorphone
+,,,,,,,,,,,,meperidine
+,,,,,,,,,,,,MIDazoLAM
+,,,,,,,,,,,,mitomycin
+,,,,,,,,,,,,meloxicam
+,,,,,,,,,,,,gabapentin
+,,,,,,,,,,,,Sodium Chloride 0.9%
+,,,,,,,,,,,,bebtelovimab
+,,,,,,,,,,,,pantoprazole
+,,,,,,,,,,,,omeprazole
+,,,,,,,,,,,,DiazePAM
+,,,,,,,,,,,,docusate-senna
+,,,,,,,,,,,,levothyroxine
+,,,,,,,,,,,,azelastine nasal
+,,,,,,,,,,,,polyethylene glycol 3350
+,,,,,,,,,,,,escitalopram
+,,,,,,,,,,,,propranolol
+,,,,,,,,,,,,heparin
+,,,,,,,,,,,,cetirizine
+,,,,,,,,,,,,atorvastatin
+,,,,,,,,,,,,aspirin
+,,,,,,,,,,,,protamine
+,,,,,,,,,,,,nitroGLYCerin
+,,,,,,,,,,,,verapamil
+,,,,,,,,,,,,amphetamine-dextroamphetamine
+,,,,,,,,,,,,fluticasone nasal
+,,,,,,,,,,,,guaiFENesin
+,,,,,,,,,,,,hydrALAZINE
+,,,,,,,,,,,,docusate
+,,,,,,,,,,,,senna
+,,,,,,,,,,,,lidocaine-EPINEPHrine
+,,,,,,,,,,,,atropine
+,,,,,,,,,,,,glycopyrrolate
+,,,,,,,,,,,,lidocaine

@@ -1,0 +1,96 @@
+StudyID,patient_gender,patient_race,patient_ethnicity,patient_dob,age,age_group,Diagnosis_code,Diagnosis_text,FamilyCondition,SocialHxInfo,VitalSign,Medication
+6,Female,White,Not Hispanic or Latino,4/2/1991,34,30-40,994.9,Other Effects of External Causes,Family history of diabetes mellitus type 2,Caffeine intake: 2 servings/day,BMI Weight in kg : 22.7,PARoxetine
+,,,,,,,E904.3,"Exposure (To Weather Conditions), Not Elsewhere Classifiable",Throat,Work/School description: nurse,Weight KG : 56.3,traZODONE
+,,,,,,,V10.81,Personal History of Malignant Neoplasm of Bone,Diabetes Mellitus,Complex Living Situation: Lives with her husband and 3 sons,Height CM : 157.5,amphetamine
+,,,,,,,738.19,Acquired skull defect,Aortic aneurysm,Complex Living Situation: Married,,VALAcyclovir
+,,,,,,,171,"Malignant Neoplasm of Connective and Other Soft Tissue of Head, Face, and Neck",Hypertension,Alcohol amount max: 12,,OXYcodone-acetaminophen
+,,,,,,,704,Alopecia,Congestive heart failure,Alcohol started drinking age: 30,,MIDazoLAM
+,,,,,,,C41.0,Malignant neoplasm of bones of skull and face,Cancer of brain,,,propofol
+,,,,,,,G06.0,Intracranial abscess and granuloma,Hyperthyroidism,,,lidocaine-EPINEPHrine
+,,,,,,,Z86.011,Personal history of benign neoplasm of the brain,,,,mineral oil
+,,,,,,,G97.82,Other postprocedural complications and disorders of nervous system,,,,succinylcholine
+,,,,,,,Z85.830,Personal history of malignant neoplasm of bone,,,,EPINEPHrine
+,,,,,,,S71.101A,"Unspecified open wound, right thigh, initial encounter",,,,ondansetron
+,,,,,,,H74.8X2,Other specified disorders of left middle ear and mastoid,,,,fentaNYL
+,,,,,,,,,,,,meperidine
+,,,,,,,,,,,,acetaminophen
+,,,,,,,,,,,,Lactated Ringers
+,,,,,,,,,,,,hydroCODONE-acetaminophen
+,,,,,,,,,,,,OXYcodone
+,,,,,,,,,,,,vancomycin
+,,,,,,,,,,,,famotidine
+,,,,,,,,,,,,heparin flush
+,,,,,,,,,,,,bacitracin topical
+,,,,,,,,,,,,Dextrose 5% in Water
+,,,,,,,,,,,,Sodium Chloride 0.9%
+,,,,,,,,,,,,enoxaparin
+,,,,,,,,,,,,lidocaine
+,,,,,,,,,,,,meropenem
+,,,,,,,,,,,,morphine
+,,,,,,,,,,,,mupirocin topical
+,,,,,,,,,,,,leveTIRACetam
+,,,,,,,,,,,,bacitracin-polymyxin B ophthalmic
+,,,,,,,,,,,,piperacillin-tazobactam
+,,,,,,,,,,,,polyethylene glycol 3350
+,,,,,,,,,,,,DiazePAM
+,,,,,,,,,,,,hydrALAZINE
+,,,,,,,,,,,,labetalol
+,,,,,,,,,,,,collagenase topical
+,,,,,,,,,,,,potassium chloride
+,,,,,,,,,,,,diphenhydrAMINE
+,,,,,,,,,,,,alteplase
+,,,,,,,,,,,,ketamine
+,,,,,,,,,,,,PHENYLephrine
+,,,,,,,,,,,,sugammadex
+,,,,,,,,,,,,sodium hypochlorite topical
+,,,,,,,,,,,,potassium phosphate-sodium phosphate
+,,,,,,,,,,,,docusate-senna
+,,,,,,,,,,,,amphetamine-dextroamphetamine
+,,,,,,,,,,,,propranolol
+,,,,,,,,,,,,Miscellaneous Medication
+,,,,,,,,,,,,dexamethasone
+,,,,,,,,,,,,CIPRofloxacin
+,,,,,,,,,,,,rivaroxaban
+,,,,,,,,,,,,nystatin
+,,,,,,,,,,,,HYDROmorphone
+,,,,,,,,,,,,bacitracin
+,,,,,,,,,,,,promethazine
+,,,,,,,,,,,,Dextrose 5% Sod Chloride 0.45%
+,,,,,,,,,,,,ketoROLAC
+,,,,,,,,,,,,dexmedetomidine
+,,,,,,,,,,,,heparin
+,,,,,,,,,,,,rocuronium
+,,,,,,,,,,,,papaverine
+,,,,,,,,,,,,metoCLOPramide
+,,,,,,,,,,,,neostigmine
+,,,,,,,,,,,,ceFAZolin
+,,,,,,,,,,,,betamethasone
+,,,,,,,,,,,,glycopyrrolate
+,,,,,,,,,,,,Sodium Chloride 0.45%
+,,,,,,,,,,,,aspirin
+,,,,,,,,,,,,heparin infusion bolus dose
+,,,,,,,,,,,,lactobacillus acidophilus and bulgaricus
+,,,,,,,,,,,,pantoprazole
+,,,,,,,,,,,,nalOXone
+,,,,,,,,,,,,simethicone
+,,,,,,,,,,,,tobramycin
+,,,,,,,,,,,,ocular lubricant
+,,,,,,,,,,,,oxychlorosene sodium
+,,,,,,,,,,,,riley butt cream
+,,,,,,,,,,,,metoPROLOL
+,,,,,,,,,,,,albuterol
+,,,,,,,,,,,,bismuth subsalicylate
+,,,,,,,,,,,,calcium carbonate
+,,,,,,,,,,,,Albumin Human 5%
+,,,,,,,,,,,,vasopressin
+,,,,,,,,,,,,hold medication dose(s)
+,,,,,,,,,,,,amoxicillin-CLAVULANATE
+,,,,,,,,,,,,famciclovir
+,,,,,,,,,,,,miconazole topical
+,,,,,,,,,,,,Nonformulary Medications
+,,,,,,,,,,,,medroxyPROGESTERone
+,,,,,,,,,,,,ALprazoLAM
+,,,,,,,,,,,,prochlorperazine
+,,,,,,,,,,,,"multivitamin, prenatal"
+,,,,,,,,,,,,clindamycin
+,,,,,,,,,,,,cePHALexin

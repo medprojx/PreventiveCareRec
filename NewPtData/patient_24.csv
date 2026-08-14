@@ -1,0 +1,8 @@
+StudyID,patient_gender,patient_race,patient_ethnicity,patient_dob,age,age_group,Diagnosis_code,Diagnosis_text,FamilyCondition,SocialHxInfo,VitalSign,Medication
+24,Female,Black or African American,Not Hispanic or Latino,8/23/1993,31,30-40,J01.30,"Acute sphenoidal sinusitis, unspecified",Embolism,Complex Living Situation: Resides at XXX Village,BMI Weight in kg : 22.6,acetaminophen
+,,,,,,,,,Depression,Complex Living Situation: single  no children,Height CM : 147.3,glucose
+,,,,,,,,,Congestive Heart Failure,Tobacco amount per day: 10,Weight KG : 49,Dextrose 5% Sod Chloride 0.45%
+,,,,,,,,,Epilepsy,,,ondansetron
+,,,,,,,,,Seizure,,,LORazePAM
+,,,,,,,,,Cancer (Specify),,,
+,,,,,,,,,Cancer,,,

@@ -1,0 +1,70 @@
+StudyID,patient_gender,patient_race,patient_ethnicity,patient_dob,age,age_group,Diagnosis_code,Diagnosis_text,FamilyCondition,SocialHxInfo,VitalSign,Medication
+22,Female,White,Hispanic or Latino,7/11/1971,53,50â60,B85.2,"Pediculosis, unspecified",Leukemia chronic lymphocytic,Other sexual concerns: STI: Syphilis.  Low sex drive.,BMI Weight in kg : 29.1,aspirin
+,,,,,,,R40.2210,"Coma scale, best verbal response, none, unspecified time",Coronary Artery Disease,Diet restrictions: pepper,Calculated Height (in) : 61,glimepiride
+,,,,,,,,,CA - Cancer of ill-defined site,Exercise duration: 30,Height CM : 155,atorvastatin
+,,,,,,,,,Osteoporosis,Caffeine intake: Coffee 2-3 daily,Weight KG : 69.9,empagliflozin
+,,,,,,,,,Pancreatic cancer,Work/School description: XXX credit union,Calculated Weight (lbs) : 153.8,metFORMIN
+,,,,,,,,,Diabetes mellitus type 2,,,gabapentin
+,,,,,,,,,,,,lidocaine
+,,,,,,,,,,,,ondansetron
+,,,,,,,,,,,,oxymetazoline nasal
+,,,,,,,,,,,,PHENYLephrine
+,,,,,,,,,,,,propofol
+,,,,,,,,,,,,dexamethasone
+,,,,,,,,,,,,labetalol
+,,,,,,,,,,,,rocuronium
+,,,,,,,,,,,,dexmedetomidine
+,,,,,,,,,,,,famotidine
+,,,,,,,,,,,,diphenhydrAMINE
+,,,,,,,,,,,,loratadine
+,,,,,,,,,,,,ceFAZolin
+,,,,,,,,,,,,neostigmine
+,,,,,,,,,,,,glycopyrrolate
+,,,,,,,,,,,,fentaNYL
+,,,,,,,,,,,,insulin NPH
+,,,,,,,,,,,,insulin lispro
+,,,,,,,,,,,,DME (Vendor)
+,,,,,,,,,,,,clopidogrel
+,,,,,,,,,,,,HYDROmorphone
+,,,,,,,,,,,,albuterol-ipratropium
+,,,,,,,,,,,,plasmaLYTE-A (pH 7.4)
+,,,,,,,,,,,,melatonin
+,,,,,,,,,,,,acetaminophen
+,,,,,,,,,,,,hydroCODONE-acetaminophen
+,,,,,,,,,,,,promethazine
+,,,,,,,,,,,,haloperidol
+,,,,,,,,,,,,Dextrose 5% Sod Chloride 0.45%
+,,,,,,,,,,,,OXYcodone
+,,,,,,,,,,,,protamine
+,,,,,,,,,,,,NORepinephrine
+,,,,,,,,,,,,heparin
+,,,,,,,,,,,,Sodium Chloride 0.9%
+,,,,,,,,,,,,thrombin topical
+,,,,,,,,,,,,mupirocin topical
+,,,,,,,,,,,,Glucostabilizer Setting Change for Nursi
+,,,,,,,,,,,,furosemide
+,,,,,,,,,,,,guaiFENesin
+,,,,,,,,,,,,enoxaparin
+,,,,,,,,,,,,magnesium sulfate
+,,,,,,,,,,,,polyethylene glycol 3350
+,,,,,,,,,,,,alteplase infusion bolus dose
+,,,,,,,,,,,,Manufacturer Diluent
+,,,,,,,,,,,,Dextrose 5% in Water
+,,,,,,,,,,,,Dextrose 10% in Water
+,,,,,,,,,,,,potassium phosphate-sodium phosphate
+,,,,,,,,,,,,glucagon
+,,,,,,,,,,,,glucose
+,,,,,,,,,,,,potassium chloride
+,,,,,,,,,,,,docusate-senna
+,,,,,,,,,,,,sodium chloride nasal
+,,,,,,,,,,,,oseltamivir
+,,,,,,,,,,,,remdesivir
+,,,,,,,,,,,,docusate
+,,,,,,,,,,,,albuterol
+,,,,,,,,,,,,benzonatate
+,,,,,,,,,,,,ketoROLAC
+,,,,,,,,,,,,spinosad topical
+,,,,,,,,,,,,cholecalciferol
+,,,,,,,,,,,,cycloBENZaprine
+,,,,,,,,,,,,levocetirizine
+,,,,,,,,,,,,doxycycline

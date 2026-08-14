@@ -1,0 +1,112 @@
+StudyID,patient_gender,patient_race,patient_ethnicity,patient_dob,age,age_group,Diagnosis_code,Diagnosis_text,FamilyCondition,SocialHxInfo,VitalSign,Medication
+5,Female,White,Not Hispanic or Latino,9/7/1959,65,60-70,C32.1,Malignant neoplasm of supraglottis,Throat cancer,Tobacco amount per day: 1,Height CM : 165.1,lidocaine
+,,,,,,,K94.20,"Gastrostomy complication, unspecified",TIA,Work/School description: DISABILITY,Weight KG : 83.5,DiazePAM
+,,,,,,,H53.009,"Unspecified amblyopia, unspecified eye",Crohn's Disease,Tobacco number of years: 18,Calculated Weight (lbs) : 183.7,potassium chloride
+,,,,,,,D38.0,Neoplasm of uncertain behavior of larynx,Melanoma,Complex Living Situation: Lives with son,Calculated Height (in) : 65,dexamethasone
+,,,,,,,T17.328A,"Food in larynx causing other injury, initial encounter",High blood pressure,,BMI Weight in kg : 30.6,sugammadex
+,,,,,,,C32.2,Malignant neoplasm of subglottis,Allergy,,,propofol
+,,,,,,,T85.898A,"Other specified complication of other internal prosthetic devices, implants and grafts, initial encounter",CHF - Congestive heart failure,,,ondansetron
+,,,,,,,K22.5,"Diverticulum of esophagus, acquired",CVA - Cerebrovascular accident,,,Lactated Ringers
+,,,,,,,Q38.7,Congenital pharyngeal pouch,,,,promethazine
+,,,,,,,Q39.6,Congenital diverticulum of esophagus,,,,fentaNYL
+,,,,,,,,,,,,omeprazole
+,,,,,,,,,,,,Unmatched Rx **For Reference Only**
+,,,,,,,,,,,,VALAcyclovir
+,,,,,,,,,,,,Sodium Chloride 0.9%
+,,,,,,,,,,,,buPROPion
+,,,,,,,,,,,,clopidogrel
+,,,,,,,,,,,,PARoxetine
+,,,,,,,,,,,,levothyroxine
+,,,,,,,,,,,,carvedilol
+,,,,,,,,,,,,rosuvastatin
+,,,,,,,,,,,,triamcinolone
+,,,,,,,,,,,,EPINEPHrine
+,,,,,,,,,,,,MIDazoLAM
+,,,,,,,,,,,,nalBUPHine
+,,,,,,,,,,,,nalOXone
+,,,,,,,,,,,,HYDROmorphone
+,,,,,,,,,,,,acetaminophen
+,,,,,,,,,,,,albuterol-ipratropium
+,,,,,,,,,,,,hydroCODONE-acetaminophen
+,,,,,,,,,,,,OXYcodone-acetaminophen
+,,,,,,,,,,,,meperidine
+,,,,,,,,,,,,labetalol
+,,,,,,,,,,,,chlorthalidone
+,,,,,,,,,,,,ePHEDrine
+,,,,,,,,,,,,ocular lubricant
+,,,,,,,,,,,,lidocaine-EPINEPHrine
+,,,,,,,,,,,,prochlorperazine
+,,,,,,,,,,,,morphine
+,,,,,,,,,,,,lisinopril
+,,,,,,,,,,,,ibuprofen
+,,,,,,,,,,,,metoPROLOL
+,,,,,,,,,,,,pneumococcal 23-polyvalent vaccine
+,,,,,,,,,,,,"influenza virus vaccine, inactivated"
+,,,,,,,,,,,,clindamycin
+,,,,,,,,,,,,loperamide
+,,,,,,,,,,,,aspirin
+,,,,,,,,,,,,insulin lispro
+,,,,,,,,,,,,magnesium sulfate
+,,,,,,,,,,,,heparin
+,,,,,,,,,,,,papaverine
+,,,,,,,,,,,,ampicillin-sulbactam
+,,,,,,,,,,,,Albumin Human 5%
+,,,,,,,,,,,,mupirocin topical
+,,,,,,,,,,,,succinylcholine
+,,,,,,,,,,,,polyethylene glycol 3350
+,,,,,,,,,,,,nicotine
+,,,,,,,,,,,,ketamine
+,,,,,,,,,,,,bacitracin topical
+,,,,,,,,,,,,rocuronium
+,,,,,,,,,,,,vasopressin
+,,,,,,,,,,,,ceFAZolin
+,,,,,,,,,,,,PHENYLephrine
+,,,,,,,,,,,,calcium chloride
+,,,,,,,,,,,,OXYcodone
+,,,,,,,,,,,,docusate
+,,,,,,,,,,,,Dextrose 5% Sod Chloride 0.45%
+,,,,,,,,,,,,enoxaparin
+,,,,,,,,,,,,atorvastatin
+,,,,,,,,,,,,glucose
+,,,,,,,,,,,,glucagon
+,,,,,,,,,,,,hydrALAZINE
+,,,,,,,,,,,,haloperidol
+,,,,,,,,,,,,SUFentanil
+,,,,,,,,,,,,Dextrose 10% in Water
+,,,,,,,,,,,,Dextrose 5% in Water
+,,,,,,,,,,,,hydroCHLOROthiazide
+,,,,,,,,,,,,ranolazine
+,,,,,,,,,,,,varenicline
+,,,,,,,,,,,,fluconazole
+,,,,,,,,,,,,lidocaine topical
+,,,,,,,,,,,,esmolol
+,,,,,,,,,,,,sterile water
+,,,,,,,,,,,,busPIRone
+,,,,,,,,,,,,diphenhydrAMINE-HC-nystatin
+,,,,,,,,,,,,traMADOL
+,,,,,,,,,,,,doxycycline
+,,,,,,,,,,,,Miscellaneous Medication
+,,,,,,,,,,,,CLonazePAM
+,,,,,,,,,,,,Zero Hour
+,,,,,,,,,,,,palonosetron
+,,,,,,,,,,,,LORazePAM
+,,,,,,,,,,,,CISplatin
+,,,,,,,,,,,,fosaprepitant
+,,,,,,,,,,,,nitroGLYCerin
+,,,,,,,,,,,,ergocalciferol
+,,,,,,,,,,,,cePHALexin
+,,,,,,,,,,,,ALprazoLAM
+,,,,,,,,,,,,etomidate
+,,,,,,,,,,,,glycopyrrolate
+,,,,,,,,,,,,neostigmine
+,,,,,,,,,,,,protamine
+,,,,,,,,,,,,bacitracin
+,,,,,,,,,,,,pantoprazole
+,,,,,,,,,,,,ezetimibe
+,,,,,,,,,,,,albuterol
+,,,,,,,,,,,,metoCLOPramide
+,,,,,,,,,,,,racEPINEPHrine
+,,,,,,,,,,,,cholecalciferol
+,,,,,,,,,,,,tetanus-diphth-pertuss (Tdap) adult/adol
+,,,,,,,,,,,,regadenoson
+,,,,,,,,,,,,omega-3 polyunsaturated fatty acids

@@ -1,0 +1,132 @@
+StudyID,patient_gender,patient_race,patient_ethnicity,patient_dob,age,age_group,Diagnosis_code,Diagnosis_text,FamilyCondition,SocialHxInfo,VitalSign,Medication
+21,Male,Black or African American,Not Hispanic or Latino,7/3/1974,50,50-60,T46.7X5A,"Adverse effect of peripheral vasodilators, initial encounter",Afib,Complex Living Situation: Lives alone,Calculated Height (in) : 69.1,heparin flush
+,,,,,,,E11.3211,"Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema, right eye",Family history of coronary artery disease,Tobacco number of years: 20,Calculated Weight (lbs) : 328.7,heparin
+,,,,,,,E22.9,"Hyperfunction of pituitary gland, unspecified",Rheumatoid arthritis,Caffeine intake: mininmal...maybe one can cola daily,BMI : 45.7,fentaNYL
+,,,,,,,S40.862A,"Insect bite (nonvenomous) of left upper arm, initial encounter",Meningitis,,,MIDazoLAM
+,,,,,,,,,Histoplasmosis,,,lidocaine
+,,,,,,,,,Peripheral vascular disease,,,sulfamethoxazole-trimethoprim
+,,,,,,,,,,,,ceFAZolin
+,,,,,,,,,,,,DME (Prescription)
+,,,,,,,,,,,,insulin aspart
+,,,,,,,,,,,,insulin glargine
+,,,,,,,,,,,,apixaban
+,,,,,,,,,,,,levothyroxine
+,,,,,,,,,,,,bupivacaine
+,,,,,,,,,,,,calcium chloride
+,,,,,,,,,,,,ondansetron
+,,,,,,,,,,,,propofol
+,,,,,,,,,,,,PHENYLephrine
+,,,,,,,,,,,,hydroCODONE-acetaminophen
+,,,,,,,,,,,,mesalamine
+,,,,,,,,,,,,labetalol
+,,,,,,,,,,,,protamine
+,,,,,,,,,,,,lidocaine-EPINEPHrine
+,,,,,,,,,,,,plasmaLYTE-A (pH 7.4)
+,,,,,,,,,,,,meperidine
+,,,,,,,,,,,,HYDROmorphone
+,,,,,,,,,,,,promethazine
+,,,,,,,,,,,,metoPROLOL
+,,,,,,,,,,,,sildenafil
+,,,,,,,,,,,,atorvastatin
+,,,,,,,,,,,,traZODONE
+,,,,,,,,,,,,insulin lispro
+,,,,,,,,,,,,warfarin
+,,,,,,,,,,,,alteplase
+,,,,,,,,,,,,rocuronium
+,,,,,,,,,,,,glycopyrrolate
+,,,,,,,,,,,,neostigmine
+,,,,,,,,,,,,ePHEDrine
+,,,,,,,,,,,,sevelamer
+,,,,,,,,,,,,Sodium Chloride 0.9%
+,,,,,,,,,,,,thrombin topical
+,,,,,,,,,,,,hydrALAZINE
+,,,,,,,,,,,,mupirocin topical
+,,,,,,,,,,,,acetaminophen
+,,,,,,,,,,,,OXYcodone
+,,,,,,,,,,,,Lactated Ringers
+,,,,,,,,,,,,calcium GLUCOnate
+,,,,,,,,,,,,Sodium Chloride 0.45%
+,,,,,,,,,,,,heparin infusion bolus dose
+,,,,,,,,,,,,Dextrose 10% in Water
+,,,,,,,,,,,,glucagon
+,,,,,,,,,,,,glucose
+,,,,,,,,,,,,sodium polySTYrene sulfonate
+,,,,,,,,,,,,albuterol
+,,,,,,,,,,,,calcium acetate
+,,,,,,,,,,,,aspirin
+,,,,,,,,,,,,lactulose
+,,,,,,,,,,,,clomiPHENE
+,,,,,,,,,,,,succinylcholine
+,,,,,,,,,,,,Dextrose 5% Sod Chloride 0.9%
+,,,,,,,,,,,,Dextrose 10% Sod Chloride 0.9%
+,,,,,,,,,,,,amoxicillin-CLAVULANATE
+,,,,,,,,,,,,pantoprazole
+,,,,,,,,,,,,"influenza virus vaccine, inactivated"
+,,,,,,,,,,,,ceftRIAXone
+,,,,,,,,,,,,azithromycin
+,,,,,,,,,,,,phytonadione
+,,,,,,,,,,,,gentamicin topical
+,,,,,,,,,,,,multivitamin with minerals
+,,,,,,,,,,,,bisacodyl
+,,,,,,,,,,,,polyethylene glycol 3350
+,,,,,,,,,,,,loperamide
+,,,,,,,,,,,,anastrozole
+,,,,,,,,,,,,Glucostabilizer Setting Change for Nursi
+,,,,,,,,,,,,benzocaine topical
+,,,,,,,,,,,,PD Fluid Dextrose 1.5% LOW CALCIUM
+,,,,,,,,,,,,Dextrose 5% in Water
+,,,,,,,,,,,,ketamine
+,,,,,,,,,,,,sugammadex
+,,,,,,,,,,,,albuterol-ipratropium
+,,,,,,,,,,,,prochlorperazine
+,,,,,,,,,,,,OXYcodone-acetaminophen
+,,,,,,,,,,,,nitroGLYCerin
+,,,,,,,,,,,,insulin regular
+,,,,,,,,,,,,traMADOL
+,,,,,,,,,,,,regadenoson
+,,,,,,,,,,,,Miscellaneous Medication
+,,,,,,,,,,,,clindamycin
+,,,,,,,,,,,,ampicillin-sulbactam
+,,,,,,,,,,,,insulin NPH
+,,,,,,,,,,,,senna
+,,,,,,,,,,,,docusate
+,,,,,,,,,,,,darbepoetin alfa
+,,,,,,,,,,,,potassium chloride
+,,,,,,,,,,,,docusate-senna
+,,,,,,,,,,,,dexamethasone
+,,,,,,,,,,,,magnesium sulfate
+,,,,,,,,,,,,propofol infusion bolus dose
+,,,,,,,,,,,,fentaNYL infusion bolus dose
+,,,,,,,,,,,,Premix Solution
+,,,,,,,,,,,,diphenhydrAMINE
+,,,,,,,,,,,,zzDME (ONCE)
+,,,,,,,,,,,,carvedilol
+,,,,,,,,,,,,hydrOXYzine
+,,,,,,,,,,,,permethrin topical
+,,,,,,,,,,,,hydrocortisone topical
+,,,,,,,,,,,,diltiaZEM
+,,,,,,,,,,,,perflutren
+,,,,,,,,,,,,amLODIPine
+,,,,,,,,,,,,cePHALexin
+,,,,,,,,,,,,insulin detemir
+,,,,,,,,,,,,calcitriol
+,,,,,,,,,,,,ferrous sulfate
+,,,,,,,,,,,,lisinopril
+,,,,,,,,,,,,multivitamin
+,,,,,,,,,,,,calcium carbonate
+,,,,,,,,,,,,clopidogrel
+,,,,,,,,,,,,cyanocobalamin
+,,,,,,,,,,,,minoxidil
+,,,,,,,,,,,,Dextrose 5% Sod Chloride 0.45%
+,,,,,,,,,,,,ampicillin
+,,,,,,,,,,,,vancomycin
+,,,,,,,,,,,,gentamicin
+,,,,,,,,,,,,bacitracin topical
+,,,,,,,,,,,,metroNIDAZOLE
+,,,,,,,,,,,,opium
+,,,,,,,,,,,,MOXifloxacin
+,,,,,,,,,,,,lansoprazole
+,,,,,,,,,,,,hold medication dose(s)
+,,,,,,,,,,,,enalapril
+,,,,,,,,,,,,ranitidine
+,,,,,,,,,,,,famotidine

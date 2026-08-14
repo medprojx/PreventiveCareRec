@@ -1,0 +1,65 @@
+StudyID,patient_gender,patient_race,patient_ethnicity,patient_dob,age,age_group,Diagnosis_code,Diagnosis_text,FamilyCondition,SocialHxInfo,VitalSign,Medication
+4,Male,White,Hispanic or Latino,11/23/1945,79,70+,FBABBA49-630C-4CEF-909E-3F0BCC88D314,Cardiac device problem,Blood clot,Tobacco number of years: 11,Height CM : 170.2,fentaNYL
+,,,,,,,E946.0,Local Anti-Infectives and Anti-Inflammatory Drugs Causing Adverse Effects in Therapeutic Use,Lymphoma,Tobacco total pack years: 65,Weight KG : 67.7,Sodium Chloride 0.9%
+,,,,,,,,,Alzheimer's disease,Diet restrictions: Gluten free,BMI : 22.9,enoxaparin
+,,,,,,,,,Arthritis,Previous employment/school: Street department worker XXX.  XXX hotel pre-remodel.,,MIDazoLAM
+,,,,,,,,,Factor 5 Leiden mutation heterozygous,Caffeine intake: 1 cup of coffee in the morning,,acetaminophen
+,,,,,,,,,Cerebral aneurysm,Exercise duration: 60,,famotidine
+,,,,,,,,,Pulmonary edema,,,albuterol
+,,,,,,,,,,,,heparin
+,,,,,,,,,,,,CISatracurium
+,,,,,,,,,,,,Dextrose 5% in Water
+,,,,,,,,,,,,sodium phosphate
+,,,,,,,,,,,,magnesium sulfate
+,,,,,,,,,,,,metoPROLOL
+,,,,,,,,,,,,NORepinephrine
+,,,,,,,,,,,,CRRT Solution
+,,,,,,,,,,,,Premix Solution
+,,,,,,,,,,,,insulin glargine
+,,,,,,,,,,,,aspirin
+,,,,,,,,,,,,ondansetron
+,,,,,,,,,,,,lidocaine
+,,,,,,,,,,,,Albumin Human 25%
+,,,,,,,,,,,,brimonidine ophthalmic
+,,,,,,,,,,,,nitroGLYCerin
+,,,,,,,,,,,,metOLAzone
+,,,,,,,,,,,,paricalcitol
+,,,,,,,,,,,,DOPamine
+,,,,,,,,,,,,clopidogrel
+,,,,,,,,,,,,morphine
+,,,,,,,,,,,,multivitamin
+,,,,,,,,,,,,isosorbide mononitrate
+,,,,,,,,,,,,hydrALAZINE
+,,,,,,,,,,,,calcitriol
+,,,,,,,,,,,,niacin
+,,,,,,,,,,,,hydroCODONE-acetaminophen
+,,,,,,,,,,,,furosemide
+,,,,,,,,,,,,labetalol
+,,,,,,,,,,,,insulin lispro
+,,,,,,,,,,,,Dextrose 10% in Water
+,,,,,,,,,,,,glucagon
+,,,,,,,,,,,,glucose
+,,,,,,,,,,,,darbepoetin alfa
+,,,,,,,,,,,,"influenza virus vaccine, inactivated"
+,,,,,,,,,,,,Lactated Ringers
+,,,,,,,,,,,,ceFAZolin
+,,,,,,,,,,,,rosuvastatin
+,,,,,,,,,,,,insulin aspart
+,,,,,,,,,,,,simvastatin
+,,,,,,,,,,,,promethazine
+,,,,,,,,,,,,TEMazePAM
+,,,,,,,,,,,,lidocaine topical
+,,,,,,,,,,,,insulin NPH
+,,,,,,,,,,,,metFORMIN
+,,,,,,,,,,,,insulin regular
+,,,,,,,,,,,,traZODONE
+,,,,,,,,,,,,Dextrose 5% Sod Chloride 0.45%
+,,,,,,,,,,,,pantoprazole
+,,,,,,,,,,,,carvedilol
+,,,,,,,,,,,,multivitamin with minerals
+,,,,,,,,,,,,regadenoson
+,,,,,,,,,,,,amiodarone
+,,,,,,,,,,,,zolpidem
+,,,,,,,,,,,,bacitracin
+,,,,,,,,,,,,propofol
+,,,,,,,,,,,,Al hydroxide-Mg hydroxide-simethicone

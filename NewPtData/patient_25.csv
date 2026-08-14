@@ -1,0 +1,88 @@
+StudyID,patient_gender,patient_race,patient_ethnicity,patient_dob,age,age_group,Diagnosis_code,Diagnosis_text,FamilyCondition,SocialHxInfo,VitalSign,Medication
+25,Male,White,Not Hispanic or Latino,3/10/1987,38,30-40,S15.011A,"Minor laceration of right carotid artery, initial encounter",Alzheimers dementia,Previous employment/school: pt worked with insulated door's. had been exposed to alot of hazardous material's.,BMI Weight in kg : 29,cycloBENZaprine
+,,,,,,,S15.112A,"Minor laceration of left vertebral artery, initial encounter",Colon Cancer,Caffeine intake: Coffee,Height CM : 177.8,methocarbamol
+,,,,,,,S27.331A,"Laceration of lung, unilateral, initial encounter",Cervical cancer,Tobacco total pack years: 1,Weight KG : 91.7,gabapentin
+,,,,,,,S36.032A,"Major laceration of spleen, initial encounter",Asthma,,,ticagrelor
+,,,,,,,S36.00XA,"Unspecified injury of spleen, initial encounter",Anxiety,,,aspirin
+,,,,,,,S79.091D,"Other physeal fracture of upper end of right femur, subsequent encounter for fracture with routine healing",,,,clopidogrel
+,,,,,,,S27.339A,"Laceration of lung, unspecified, initial encounter",,,,lidocaine topical
+,,,,,,,S36.021A,"Major contusion of spleen, initial encounter",,,,ziprasidone
+,,,,,,,S27.331S,"Laceration of lung, unilateral, sequela",,,,OXYcodone
+,,,,,,,S72.051D,"Unspecified fracture of head of right femur, subsequent encounter for closed fracture with routine healing",,,,traZODONE
+,,,,,,,,,,,,cefePIME
+,,,,,,,,,,,,ondansetron
+,,,,,,,,,,,,Sodium Chloride 0.9%
+,,,,,,,,,,,,Dextrose 5% in Water
+,,,,,,,,,,,,propranolol
+,,,,,,,,,,,,polyethylene glycol 3350
+,,,,,,,,,,,,acetaminophen
+,,,,,,,,,,,,calcium-vitamin D
+,,,,,,,,,,,,enoxaparin
+,,,,,,,,,,,,docusate-senna
+,,,,,,,,,,,,ferrous sulfate
+,,,,,,,,,,,,melatonin
+,,,,,,,,,,,,albuterol
+,,,,,,,,,,,,plasmaLYTE-A (pH 7.4)
+,,,,,,,,,,,,HYDROmorphone
+,,,,,,,,,,,,lidocaine-EPINEPHrine
+,,,,,,,,,,,,MIDazoLAM
+,,,,,,,,,,,,nalOXone
+,,,,,,,,,,,,azithromycin
+,,,,,,,,,,,,vancomycin
+,,,,,,,,,,,,morphine
+,,,,,,,,,,,,pneumococcal 13-valent conjugate vaccine
+,,,,,,,,,,,,meningococcal group B vaccine
+,,,,,,,,,,,,haemophilus b conjugate (PRP-T) vaccine
+,,,,,,,,,,,,ketoROLAC
+,,,,,,,,,,,,propofol
+,,,,,,,,,,,,succinylcholine
+,,,,,,,,,,,,rocuronium
+,,,,,,,,,,,,fentaNYL
+,,,,,,,,,,,,glycopyrrolate
+,,,,,,,,,,,,lidocaine
+,,,,,,,,,,,,albuterol-ipratropium
+,,,,,,,,,,,,promethazine
+,,,,,,,,,,,,hydroCODONE-acetaminophen
+,,,,,,,,,,,,OXYcodone-acetaminophen
+,,,,,,,,,,,,meperidine
+,,,,,,,,,,,,metoPROLOL
+,,,,,,,,,,,,DiazePAM
+,,,,,,,,,,,,heparin
+,,,,,,,,,,,,protamine
+,,,,,,,,,,,,Lactated Ringers
+,,,,,,,,,,,,hold medication dose(s)
+,,,,,,,,,,,,furosemide
+,,,,,,,,,,,,potassium chloride
+,,,,,,,,,,,,bacitracin topical
+,,,,,,,,,,,,dexmedetomidine
+,,,,,,,,,,,,guaiFENesin
+,,,,,,,,,,,,bisacodyl
+,,,,,,,,,,,,propofol infusion bolus dose
+,,,,,,,,,,,,labetalol
+,,,,,,,,,,,,etomidate
+,,,,,,,,,,,,Premix Solution
+,,,,,,,,,,,,fentaNYL infusion bolus dose
+,,,,,,,,,,,,meropenem
+,,,,,,,,,,,,MIDazoLAM infusion bolus dose
+,,,,,,,,,,,,tobramycin
+,,,,,,,,,,,,amphotericin B
+,,,,,,,,,,,,potassium phosphate
+,,,,,,,,,,,,sodium chloride
+,,,,,,,,,,,,verapamil
+,,,,,,,,,,,,nitroGLYCerin
+,,,,,,,,,,,,quetiapine
+,,,,,,,,,,,,diphenhydrAMINE
+,,,,,,,,,,,,clindamycin
+,,,,,,,,,,,,famotidine
+,,,,,,,,,,,,ergocalciferol
+,,,,,,,,,,,,calcium GLUCOnate
+,,,,,,,,,,,,heparin flush
+,,,,,,,,,,,,Sodium Chloride 0.45%
+,,,,,,,,,,,,heparin infusion bolus dose
+,,,,,,,,,,,,tetanus-diphth-pertuss (Tdap) adult/adol
+,,,,,,,,,,,,ketamine
+,,,,,,,,,,,,traMADOL
+,,,,,,,,,,,,ceFAZolin
+,,,,,,,,,,,,dexamethasone
+,,,,,,,,,,,,docusate
+,,,,,,,,,,,,bupivacaine

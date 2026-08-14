@@ -1,0 +1,54 @@
+StudyID,patient_gender,patient_race,patient_ethnicity,patient_dob,age,age_group,Diagnosis_code,Diagnosis_text,FamilyCondition,SocialHxInfo,VitalSign,Medication
+3,Male,White,Not Hispanic or Latino,3/17/1957,68,60-70,I70.412,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with intermittent claudication, left leg",Blood clotting disorder,Work/School description: MRI tech,Calculated Weight (lbs) : 203.9,hepatitis A adult vaccine
+,,,,,,,T23.001A,"Burn of unspecified degree of right hand, unspecified site, initial encounter",DM (diabetes mellitus),Complex Living Situation: Lives with son and daughter-in-law for past 5 months,Calculated Height (in) : 70.9,hepatitis B adult vaccine
+,,,,,,,T23.002A,"Burn of unspecified degree of left hand, unspecified site, initial encounter",Brain cancer,Tobacco number of years: 38,BMI : 31.8,acetaminophen-codeine
+,,,,,,,,,Preleukemia,Complex Living Situation: married,,silver sulfADIAZINE topical
+,,,,,,,,,Stroke (cerebrum),Caffeine intake: none,,lisinopril
+,,,,,,,,,Diabetes mellitus type 1,Tobacco total pack years: 2,,diclofenac topical
+,,,,,,,,,Congenital abnormality,Alcohol stopped drinking age: 38,,hydroCODONE-acetaminophen
+,,,,,,,,,Arthritis,,,fluticasone nasal
+,,,,,,,,,Atrial fibrillation,,,azithromycin
+,,,,,,,,,Obstructive sleep apnea,,,cycloBENZaprine
+,,,,,,,,,,,,traMADOL
+,,,,,,,,,,,,aspirin
+,,,,,,,,,,,,acetaminophen-guaiFENesin-PE
+,,,,,,,,,,,,varenicline
+,,,,,,,,,,,,rocuronium
+,,,,,,,,,,,,propofol
+,,,,,,,,,,,,PHENYLephrine
+,,,,,,,,,,,,ocular lubricant
+,,,,,,,,,,,,glycopyrrolate
+,,,,,,,,,,,,ceFAZolin
+,,,,,,,,,,,,ePHEDrine
+,,,,,,,,,,,,neostigmine
+,,,,,,,,,,,,protamine
+,,,,,,,,,,,,lidocaine
+,,,,,,,,,,,,heparin
+,,,,,,,,,,,,plasmaLYTE-A (pH 7.4)
+,,,,,,,,,,,,ondansetron
+,,,,,,,,,,,,promethazine
+,,,,,,,,,,,,meperidine
+,,,,,,,,,,,,HYDROmorphone
+,,,,,,,,,,,,hydroCHLOROthiazide-triamterene
+,,,,,,,,,,,,MIDazoLAM
+,,,,,,,,,,,,calcium carbonate
+,,,,,,,,,,,,multivitamin
+,,,,,,,,,,,,Dextrose 2.5% Sod Chloride 0.45%
+,,,,,,,,,,,,hydrALAZINE
+,,,,,,,,,,,,labetalol
+,,,,,,,,,,,,clopidogrel
+,,,,,,,,,,,,atorvastatin
+,,,,,,,,,,,,fentaNYL
+,,,,,,,,,,,,thiamine
+,,,,,,,,,,,,folic acid
+,,,,,,,,,,,,bacitracin
+,,,,,,,,,,,,"dextran, low molecular weight"
+,,,,,,,,,,,,mupirocin topical
+,,,,,,,,,,,,Sodium Chloride 0.9%
+,,,,,,,,,,,,verapamil
+,,,,,,,,,,,,heparin flush
+,,,,,,,,,,,,nitroGLYCerin
+,,,,,,,,,,,,regadenoson
+,,,,,,,,,,,,cilostazol
+,,,,,,,,,,,,simvastatin
+,,,,,,,,,,,,acetaminophen

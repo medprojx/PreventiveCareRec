@@ -1,0 +1,32 @@
+StudyID,patient_gender,patient_race,patient_ethnicity,patient_dob,age,age_group,Diagnosis_code,Diagnosis_text,FamilyCondition,SocialHxInfo,VitalSign,Medication
+7,Female,Asian,Not Hispanic or Latino,12/26/1968,56,50-60,372.72,Subconjunctival hemorrhage,Myocardial infarction,Work/School description: Housewife,Calculated Height (in) : 59.3,gabapentin
+,,,,,,,611.72,Breast lump,Heart valve disease,,Calculated Weight (lbs) : 108.7,OXYcodone
+,,,,,,,V72.31,Encounter for routine gynecological examination with Papanicolaou smear of cervix,CABG x 4 - Coronary artery bypass grafts x 4,,BMI : 22.4,acetaminophen
+,,,,,,,N93.0,Postcoital and contact bleeding,Thyroid disease,,,lisinopril
+,,,,,,,I63.29,Cerebral infarction due to unspecified occlusion or stenosis of other precerebral arteries,Diabetes mellitus type 2 uncomplicated,,,aspirin
+,,,,,,,S12.601A,"Unspecified nondisplaced fracture of seventh cervical vertebra, initial encounter for closed fracture",Anemia,,,atorvastatin
+,,,,,,,S22.011A,"Stable burst fracture of first thoracic vertebra, initial encounter for closed fracture",CHF (congestive heart failure),,,sulfamethoxazole-trimethoprim
+,,,,,,,S22.021A,"Stable burst fracture of second thoracic vertebra, initial encounter for closed fracture",Lung disease,,,fentaNYL
+,,,,,,,S22.031A,"Stable burst fracture of third thoracic vertebra, initial encounter for closed fracture",Colon polyp,,,plasmaLYTE-A (pH 7.4)
+,,,,,,,S22.041A,"Stable burst fracture of fourth thoracic vertebra, initial encounter for closed fracture",Brain tumor,,,enoxaparin
+,,,,,,,S23.41XA,"Sprain of ribs, initial encounter",,,,docusate-senna
+,,,,,,,S27.2XXA,"Traumatic hemopneumothorax, initial encounter",,,,estradiol
+,,,,,,,,,,,,hydroCHLOROthiazide
+,,,,,,,,,,,,diphenhydrAMINE
+,,,,,,,,,,,,traMADOL
+,,,,,,,,,,,,ondansetron
+,,,,,,,,,,,,morphine
+,,,,,,,,,,,,Sodium Chloride 0.9%
+,,,,,,,,,,,,"zoster vaccine, inactivated"
+,,,,,,,,,,,,omega-3 polyunsaturated fatty acids
+,,,,,,,,,,,,hepatitis A adult vaccine
+,,,,,,,,,,,,lisinopril-hydroCHLOROthiazide
+,,,,,,,,,,,,tetanus-diphth-pertuss (Tdap) adult/adol
+,,,,,,,,,,,,Zero Hour
+,,,,,,,,,,,,ferric carboxymaltose
+,,,,,,,,,,,,tiZANidine
+,,,,,,,,,,,,cycloBENZaprine
+,,,,,,,,,,,,multivitamin
+,,,,,,,,,,,,cloNIDine
+,,,,,,,,,,,,lidocaine
+,,,,,,,,,,,,amLODIPine

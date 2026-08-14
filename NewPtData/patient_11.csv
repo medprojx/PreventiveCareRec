@@ -1,0 +1,85 @@
+StudyID,patient_gender,patient_race,patient_ethnicity,patient_dob,age,age_group,Diagnosis_code,Diagnosis_text,FamilyCondition,SocialHxInfo,VitalSign,Medication
+11,Male,Black or African American,Hispanic or Latino,1/26/1949,76,70+,372.4,"Pterygium, Unspecified",Uterine cancer,Other contraceptive use: vasectomy,Weight KG : 78.4,sevelamer
+,,,,,,,,,Disc degeneration,Complex Living Situation: MARRIED  2 CHILDREN,BMI : 28.2,doxercalciferol
+,,,,,,,,,COPD,Alcohol amount max: 1,Height CM : 170.2,lanthanum carbonate
+,,,,,,,,,Breast cancer,Tobacco number of years: 63,BMI Weight in kg : 29.6,heparin
+,,,,,,,,,Bone cancer,,,acetaminophen
+,,,,,,,,,Cancer of bladder,,,diphenhydrAMINE
+,,,,,,,,,,,,tuberculin purified protein derivative
+,,,,,,,,,,,,"influenza virus vaccine, inactivated"
+,,,,,,,,,,,,atenolol
+,,,,,,,,,,,,epoetin alfa
+,,,,,,,,,,,,carvedilol
+,,,,,,,,,,,,aspirin
+,,,,,,,,,,,,multivitamin
+,,,,,,,,,,,,pantoprazole
+,,,,,,,,,,,,ondansetron
+,,,,,,,,,,,,hydrALAZINE
+,,,,,,,,,,,,albuterol
+,,,,,,,,,,,,pravastatin
+,,,,,,,,,,,,Dextrose 5% in Water
+,,,,,,,,,,,,insulin lispro
+,,,,,,,,,,,,felodipine
+,,,,,,,,,,,,glipiZIDE
+,,,,,,,,,,,,Sodium Chloride 0.9%
+,,,,,,,,,,,,Dextrose 10% in Water
+,,,,,,,,,,,,glucagon
+,,,,,,,,,,,,glucose
+,,,,,,,,,,,,cinacalcet
+,,,,,,,,,,,,nitroGLYCerin
+,,,,,,,,,,,,fentaNYL
+,,,,,,,,,,,,MIDazoLAM
+,,,,,,,,,,,,sodium ferric gluconate complex
+,,,,,,,,,,,,iron sucrose
+,,,,,,,,,,,,calcium-vitamin D
+,,,,,,,,,,,,hydroCODONE-acetaminophen
+,,,,,,,,,,,,calcium acetate
+,,,,,,,,,,,,valsartan
+,,,,,,,,,,,,bicalutamide
+,,,,,,,,,,,,polyethylene glycol 3350
+,,,,,,,,,,,,tetanus-diphth-pertuss (Tdap) adult/adol
+,,,,,,,,,,,,pneumococcal 23-polyvalent vaccine
+,,,,,,,,,,,,senna
+,,,,,,,,,,,,bisacodyl
+,,,,,,,,,,,,PHENYLephrine
+,,,,,,,,,,,,sodium bicarbonate
+,,,,,,,,,,,,aminoCAPROIC acid
+,,,,,,,,,,,,calcium chloride
+,,,,,,,,,,,,DOBUTamine
+,,,,,,,,,,,,mannitol
+,,,,,,,,,,,,papaverine
+,,,,,,,,,,,,phenol topical
+,,,,,,,,,,,,zzaspirin buffered
+,,,,,,,,,,,,morphine
+,,,,,,,,,,,,plasma protein fraction
+,,,,,,,,,,,,ceFUROXime
+,,,,,,,,,,,,docusate
+,,,,,,,,,,,,docusate-senna
+,,,,,,,,,,,,magnesium hydroxide
+,,,,,,,,,,,,simvastatin
+,,,,,,,,,,,,mupirocin topical
+,,,,,,,,,,,,potassium chloride
+,,,,,,,,,,,,Albumin Human 5%
+,,,,,,,,,,,,Albumin Human 25%
+,,,,,,,,,,,,Dextrose 5% Sod Chloride 0.45%
+,,,,,,,,,,,,desmopressin
+,,,,,,,,,,,,bupivacaine
+,,,,,,,,,,,,lidocaine
+,,,,,,,,,,,,CISatracurium
+,,,,,,,,,,,,ocular lubricant
+,,,,,,,,,,,,bacitracin topical
+,,,,,,,,,,,,famotidine
+,,,,,,,,,,,,magnesium sulfate
+,,,,,,,,,,,,zolpidem
+,,,,,,,,,,,,darbepoetin alfa
+,,,,,,,,,,,,furosemide
+,,,,,,,,,,,,isosorbide mononitrate
+,,,,,,,,,,,,clopidogrel
+,,,,,,,,,,,,amLODIPine
+,,,,,,,,,,,,acetylcysteine
+,,,,,,,,,,,,leuprolide
+,,,,,,,,,,,,metoPROLOL
+,,,,,,,,,,,,omeprazole
+,,,,,,,,,,,,Miscellaneous Medication
+,,,,,,,,,,,,atorvastatin
+,,,,,,,,,,,,bisoprolol
